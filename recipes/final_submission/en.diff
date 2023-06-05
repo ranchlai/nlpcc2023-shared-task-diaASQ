@@ -1,0 +1,1194 @@
+==================================
+doc_id 0001
+So I still bought 12X , although the cost - effective is not high , but I have no choice .
+I bought the Realme Master Exploration edition , and I feel the cost - effective of it is better than 12X .
+I am also tangled in the Master Exploration and 12X [ Yun Bei ] . I heard that the Master Explorer has poor performance in battery life and heating in the 870 model .
+I just got it today , I used to use Apple before , I am marvel that Android has improved now . As for the heating and battery life compared to other mobile phones , it is not clear since I did n't compare them . But the appearance of the Master Exploration is really good , I bought the travel box edition .
+I went to the store to experience it . The 12 did n't stuck at all when taking photo , and there was no delay . But the 12x did n't work .
+I want to buy 12 because of the speed of taking pictures , but I am afraid that the battery life will not work , and it will heat up . I do n't play games [ eat melon ]
+Buy it . Anyway , it can be replaced after a year . It is still possible for workers to work hard . No matter how bad it is , the Xiaomi Mi 12 series is more advanced than the Xiaomi Note with Snapdragon 810 , so buy it if you like it , and return it if it is not suitable . Return , then buy another [ hee hee ]
+There are a lot of 870/865 mobile phones at the price of 2000 + . You can buy this thing for more than 3000 unless you are really fascinated by the small screen .
+Yes , I really just need a small screen . To be honest , I would rather spend 1000 more for the small screen with the same configuration .
+The grip of Xiaoping is too comfortable , but unfortunately it is not suitable for me to use the heavy user .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[291, 292, 318, 319, 317, 318, "pos", "870/865", "screen", "small"]', '[62, 64, 68, 70, 65, 67, "neg", "Master Explorer", "battery life", "poor performance"]', '[4, 5, 318, 319, 317, 318, "pos", "12X", "screen", "small"]', '[62, 64, 71, 72, 65, 67, "neg", "Master Explorer", "heating", "poor performance"]'}
+[pred_test_en_no_mask_0525.json] {'[137, 140, 125, 126, 132, 133, "pos", "travel box edition", "appearance", "good"]', '[94, 95, 104, 106, 106, 111, "pos", "Android", "battery life", "compared to other mobile phones"]'}
+in both {'[62, 64, 68, 70, 65, 66, "neg", "Master Explorer", "battery life", "poor"]', '[62, 64, 71, 72, 65, 66, "neg", "Master Explorer", "heating", "poor"]', '[151, 152, 158, 160, 152, 155, "neg", "12", "taking photo", "did n\'t stuck"]', '[41, 42, 33, 36, 39, 40, "neg", "12X", "cost - effective", "better"]', '[178, 179, 193, 195, 196, 198, "neg", "12", "battery life", "not work"]', '[4, 5, 8, 11, 12, 14, "neg", "12X", "cost - effective", "not high"]', '[24, 28, 33, 36, 39, 40, "pos", "Realme Master Exploration edition", "cost - effective", "better"]', '[128, 130, 125, 126, 132, 133, "pos", "Master Exploration", "appearance", "good"]'}
+==================================
+doc_id 0011
+K20Pro feels that it is also the pinnacle of Redmi [ eating melon ] , and the weightlifting vertical lens is really endurable .
+Is n't Huawei Porsche [ DOGE ] .
+Which one [ dumbfounded ] .
+Search for Huawei Maters that can only be said that the rear module is exactly the same .
+MIX2 is the pinnacle of Xiaomi .
+really .
+The white version is really beautiful .
+Is n't it K40 ?
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[0, 1, 17, 20, 22, 23, "neg", "K20Pro", "weightlifting vertical lens", "endurable"]', '[40, 41, 49, 51, 52, 55, "other", "Huawei", "rear module", "exactly the same"]'}
+[pred_test_en_no_mask_0525.json] {'[0, 1, 17, 20, 22, 23, "pos", "K20Pro", "weightlifting vertical lens", "endurable"]', '[40, 42, 49, 51, 52, 55, "other", "Huawei Maters", "rear module", "exactly the same"]'}
+in both set()
+==================================
+doc_id 0021
+It depends on whether vivo can pull Xiaomi down from the position of the king of images this year [ insidious][insidious][insidious ]
+One thing to say , I think the X70Pro+ looks better than the 11U when taking pictures straight out [ doge ]
+V 's color is really good .
+Color ( the highest saturation is pulled ) .
+Immediately attacked by a group of trolls who do n't take pictures , as long as they buy x70 , the sales are not so ugly
+You know the sales volume is ugly ? ? X70pro+ sells well among high - end products
+Wow , it 's good to sell it , but except you , You guys have become so virtuous that you do n't buy it but expect others to buy it?As long as you give back the money you got to your master , you wo n't have to use the iPhone 12 [ sad ]
+Is n't Vivo 's photography always strong ?
+Are n't you afraid of offending people when you say this ?
+What is offending ? To be honest , I did not say that Xiaomi was poor . I just said that vivo 's photo was still very strong [ Doge ] .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[95, 96, 89, 91, 92, 93, "pos", "X70pro+", "sales volume", "ugly"]', '[78, 79, 81, 82, 83, 86, "pos", "x70", "sales", "not so ugly"]'}
+[pred_test_en_no_mask_0525.json] {'[95, 96, 89, 91, 92, 93, "other", "X70pro+", "sales volume", "ugly"]', '[78, 79, 81, 82, 83, 86, "neg", "x70", "sales", "not so ugly"]'}
+in both {'[30, 31, 37, 39, 31, 33, "pos", "X70Pro+", "taking pictures", "looks better"]', '[35, 36, 37, 39, 31, 33, "neg", "11U", "taking pictures", "looks better"]'}
+==================================
+doc_id 0031
+I sincerely advise everyone not to buy black sharks ! Intersection
+Why?I feel very good with Black Shark 4
+My Black Shark 4 pro returned to the factory twice in two months , and the last time the motherboard burned out . When the king 's glory is hit halfway , shut down directly
+Then maybe you are unlucky , I bought it first , and it has never been a problem until now .
+Black sharks are only suitable for playing games , and the game mobile phone field is definitely invincible . But taking pictures is too bad .
+Play the game and restart three times , my oppo will not do this
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[75, 77, 81, 83, 78, 80, "pos", "Black sharks", "playing games", "only suitable"]', '[75, 77, 86, 87, 91, 93, "pos", "Black sharks", "game", "definitely invincible"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[75, 77, 95, 97, 98, 100, "neg", "Black sharks", "taking pictures", "too bad"]', '[75, 77, 81, 83, 79, 80, "pos", "Black sharks", "playing games", "suitable"]'}
+==================================
+doc_id 0041
+The corner screen and the camera from 4 years ago on the k40 really made me laugh out loud
+That is also stronger than E3 [ Dig nose ]
+The e3 flexible screen beats the e4 hard screen , you can go to the store to see it , but I do not accept the refutation
+E3 soft screen ?
+The 598 sensor is really bad . I also bought the Detector for my wife . Do n't you think the Detector is good at the same price ?
+Not to mention the Detector , the 682 on the GT is not bad , but the lens may be a little worse
+Yes , do n't give this 598 [ Yun Bei ]
+582 was four years ago ?
+Electronic spicy chicken on glory play3
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[12, 13, 2, 3, 16, 19, "neg", "k40", "screen", "laugh out loud"]', '[99, 100, 106, 107, 109, 112, "neg", "GT", "lens", "a little worse"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[35, 36, 31, 33, 33, 34, "neg", "e4", "flexible screen", "beats"]', '[61, 62, 62, 63, 65, 66, "neg", "598", "sensor", "bad"]', '[99, 100, 96, 97, 101, 103, "pos", "GT", "682", "not bad"]', '[12, 13, 5, 6, 16, 19, "neg", "k40", "camera", "laugh out loud"]', '[30, 31, 31, 33, 33, 34, "pos", "e3", "flexible screen", "beats"]', '[12, 13, 1, 3, 16, 19, "neg", "k40", "corner screen", "laugh out loud"]'}
+==================================
+doc_id 0051
+Mate40pro or p40p+ which one to choose ? Mainly take pictures , night scenes , landscapes , etc . Occasionally play the king and eat chicken [ doge ]
+Kirin 9000 if you play the game ,
+Mainly taking pictures , playing games as a secondary [ doge ]
+I feel + is better . A few days ago , I saw a person who recorded a better video than my 40Pro , and the ceramic texture is also better . The main reason is that the curvature of Samsung 's Mate is too large . [ Meow meow ]
+I said taking pictures
+all good
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[0, 1, 9, 11, 3, 7, "pos", "Mate40pro", "take pictures", "which one to choose"]', '[0, 1, 41, 43, 43, 46, "neg", "Mate40pro", "playing games", "as a secondary"]', '[51, 52, 76, 77, 79, 80, "pos", "+", "texture", "better"]', '[2, 3, 9, 11, 3, 7, "pos", "p40p+", "take pictures", "which one to choose"]'}
+[pred_test_en_no_mask_0525.json] {'[71, 72, 68, 69, 67, 68, "neg", "40Pro", "video", "better"]'}
+in both {'[89, 90, 87, 88, 93, 95, "pos", "Samsung", "curvature", "too large"]', '[91, 92, 87, 88, 93, 95, "pos", "Mate", "curvature", "too large"]'}
+==================================
+doc_id 0061
+Borrowing the building to ask which one is better , next plus 9r and iqooneo5
+I only know that my OnePlus 6 has a lot of problems .
+It 's so hard to for choice difficult disease [ tears ]
+Or maybe IQOO , maybe the system update is slow ?
+Exterior 9R , system Neo5
+Which one is resistant . I only changed my phone once in two or three years [ Smile ]
+If the memory and storage are big , there is no problem [ Pouting ]
+If it is practical , I personally think NEO5 , the appearance 9r
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[42, 43, 46, 48, 49, 50, "neg", "IQOO", "system update", "slow"]'}
+[pred_test_en_no_mask_0525.json] {'[42, 43, 46, 48, 49, 50, "other", "IQOO", "system update", "slow"]'}
+in both set()
+==================================
+doc_id 0071
+I decided that when the 10 G mobile phone was listed , I changed my Huawei Mate10pro ~ [ Yun Bei ]
+My Mate30 screen burst inside
+My Mate30 screen broke [ Yun Bei ] [ Yun Bei ] [ Yun Bei ] [ Yun Bei ]
+It 's almost 1200 yuan to change the screen [ tears ] I bought a new one , but I still ca n't bear to throw the old one
+My Mate20pro has begun to restart automatically [ spreading hands ]
+My p30 also started rebooting ! ! What use of system recovery and emergency backup ? Exam week broke
+I also have a P30 , shivering [ Yun Bei ]
+Do you really think Huawei was made by iron ? Can use so long
+No , the Huawei Mate series can be used for a long time . My classmate 's Mate20 is still smooth , but the 64 G she bought at the time was often reminded that the memory was full
+You can go to the after - sales upgrade of the memory , more than 300 yuan upgrade 128 , more than 500 upgrades 256
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[23, 24, 24, 25, 25, 27, "neg", "Mate30", "screen", "burst inside"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[28, 29, 29, 30, 30, 31, "neg", "Mate30", "screen", "broke"]'}
+==================================
+doc_id 0081
+10u is too heavy , 10p is a bucket machine [ doge ] , 10u is better than 10p only for taking pictures and charging , and others are not as good as 10p [ doge ]
+The 10U 865 game experienc e is better than 10p . If you do n't believe me , you can compare . The 865 of 10 U is overclocked from the factory , and the optimization is also very good .
+10U performance is also weakened and not so good
+not at all ,
+10u charging can greatly alleviate the impact of battery wear and tear , and the camera 's functional performance covers the gap brought about by the advancement of camera standards . I am also optimistic about 10u . Because the new Xiaomi serials , which are good than it , are not light .
+According to their feedback , the performance and charging of 10u have weakened after Xiaomi updated the system , and the charging weakened even more severely .
+The charging is indeed worse than before , but taking pictures is still the first echelon
+10p only has the advantage of being relatively light and thin ... It ca n't beat ultra in other aspects ... It 's just that the base is large , so it may be used by a large number of people [ eat melon ]
+The screen is too bad
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[38, 39, 39, 42, 44, 45, "pos", "10U", "865 game experienc", "better"]', '[46, 47, 39, 42, 44, 45, "neg", "10p", "865 game experienc", "better"]', '[91, 92, 106, 110, 110, 113, "neg", "10u", "camera \'s functional performance", "covers the gap"]', '[155, 156, 151, 152, 157, 158, "pos", "10u", "performance", "weakened"]', '[155, 156, 166, 167, 168, 171, "pos", "10u", "charging", "even more severely"]', '[155, 156, 153, 154, 157, 158, "pos", "10u", "charging", "weakened"]', '[14, 15, 27, 28, 29, 33, "pos", "10u", "others", "not as good as"]', '[155, 156, 162, 163, 157, 158, "pos", "10u", "system", "weakened"]', '[33, 34, 27, 28, 29, 33, "pos", "10p", "others", "not as good as"]'}
+[pred_test_en_no_mask_0525.json] {'[38, 39, 40, 43, 44, 45, "pos", "10U", "game experienc e", "better"]', '[78, 79, 79, 80, 82, 83, "neg", "10U", "performance", "weakened"]', '[46, 47, 40, 43, 44, 45, "neg", "10p", "game experienc e", "better"]', '[155, 156, 151, 152, 157, 158, "neg", "10u", "performance", "weakened"]', '[155, 156, 153, 154, 157, 158, "neg", "10u", "charging", "weakened"]', '[155, 156, 162, 163, 157, 158, "neg", "10u", "system", "weakened"]'}
+in both {'[78, 79, 79, 80, 82, 87, "neg", "10U", "performance", "weakened and not so good"]', '[62, 64, 72, 73, 75, 77, "pos", "10 U", "optimization", "very good"]', '[155, 156, 181, 183, 186, 188, "pos", "10u", "taking pictures", "first echelon"]', '[14, 15, 24, 25, 16, 17, "pos", "10u", "charging", "better"]', '[14, 15, 21, 23, 16, 17, "pos", "10u", "taking pictures", "better"]', '[18, 19, 21, 23, 16, 17, "neg", "10p", "taking pictures", "better"]', '[188, 189, 234, 235, 236, 238, "neg", "10p", "screen", "too bad"]', '[155, 156, 173, 174, 176, 177, "neg", "10u", "charging", "worse"]'}
+==================================
+doc_id 0091
+You try 765 with MIUI , the performance is comparable to 450 , and the optimization is the same as 💩
+It seems that only you have used MIUI
+I have three Xiaomi , all of them have this situation , what do you say ?
+This is unscientific , even if I only have a Xiaomi , but this is not the case . Running smoothly , from Xiaomi MIX2
+Just embarrassingly smear
+My 11pro 888 is like shit . 768 makes you stuck to death
+There 's nothing wrong with my 865
+My Xiaomi 11 is not as smooth as the blue factory X70 in daily use
+It seems not as smooth as iqoo8pro
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[105, 106, 107, 109, 98, 101, "pos", "X70", "daily use", "not as smooth"]', '[95, 97, 107, 109, 98, 101, "neg", "Xiaomi 11", "daily use", "not as smooth"]'}
+[pred_test_en_no_mask_0525.json] {'[75, 76, 76, 77, 78, 80, "neg", "11pro", "888", "like shit"]'}
+in both set()
+==================================
+doc_id 0101
+The RealMe system is too crappy .
+There is nothing to troll , so come to troll about the system [ cute ]
+I bought four real self , and you said I was trolling , that 's ridiculous . [ Dig nose ] [ Twitter ]
+I also bought four Xiaomi , so I can also say whatever I want
+Do n't [ Floating Cloud ] [ Rabbit ]
+It 's really not as good as MIUI . I changed my 11u to Realme Master because of the heat problem , thinking that 870 should be better . And at that time the master had just come out , a bunch of people blowing , but I was put off after buying it for a month or two . The phone separation and the small windows are not good enough , also the fineness of the animation is also very crappy . It 's just able to be used , but do n't try to bumping porcelain MIUI
+Really , much better than MIUI [ sad ] [ sad ] [ sad ]
+MIUI is fine . I have used K40 for a while , and I feel that it is better than the Realme system .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[1, 2, 19, 20, 16, 17, "neg", "RealMe", "system", "troll"]', '[191, 192, 206, 207, 202, 203, "pos", "K40", "system", "better"]'}
+[pred_test_en_no_mask_0525.json] {'[82, 83, 144, 148, 150, 152, "neg", "11u", "fineness of the animation", "very crappy"]'}
+in both {'[205, 206, 206, 207, 202, 203, "neg", "Realme", "system", "better"]', '[1, 2, 2, 3, 4, 6, "neg", "RealMe", "system", "too crappy"]'}
+==================================
+doc_id 0111
+For so many years , only Samsung and Huawei has stabilized its feet at high -end .
+Huawei play consumer for a sucker by patriotism . What does the others domestic brands rely on ?
+At the peak of Huawei , it have been the top two in the world . Is this relying on patriotism [ cute ] ?
+You are small - minded , Xiaomi also has been the second in the world . Does it mean something ?
+Huawei is really fierce , the P series , the Mate series are almost all the top - selling item , and the price is really high
+However , Huawei has its own chip , only this can make it has different selling points with other Android manufacturers . [ DOGE ] and the signal is also very good
+Huawei has been doing business for many years before its sales volume rises , like P2 , P6 , P7 , P8 , just nobody knows ?
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[39, 40, 37, 38, 45, 50, "pos", "Huawei", "peak", "top two in the world"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[110, 111, 135, 136, 138, 140, "pos", "Huawei", "signal", "very good"]'}
+==================================
+doc_id 0121
+[ Laughing Cry ] Now all these manufacturers know is add configuration , but it is really difficult to use . I bought an IQOO earlier , and the signal was really bad , and each time I had to restart it to replace it with 4 G signal .
+The Android flagship version 's signal does not feel any difference in daily use , and the IQOO signal is not so bad .
+This is what I have used . It is really sucks . My colleague also bought one , and he said that he would never buy iQOO in the future , the signal was bad . Of course , maybe it 's only happen to ours two . Anyway , if the consumers ' experience is good or not is felt from these .
+But in fact , I am also IQOO users , sometimes better than Huawei signals . The signal is still depends on places .
+I rented outside the school during my postgraduate . Last year , I tried OnePlus 8 , Mi 10s , and Meizu 18 . Only Huawei signal was full in the elevator room , and Meizu 's is so bad that ca n't use my WeChat .
+[ Laughing Cry ] I have also bought a lot of mobile phones , you can see it through my Weibo , and the gaps of using experience are really large .
+Huawei 's Mate series is really good to use , everything is handy except the screens . The Huawei P series , I previously bought P9P and feels that there are many small problems , of course it 's many years ago .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[51, 54, 55, 56, 57, 61, "other", "Android flagship version", "signal", "not feel any difference"]'}
+[pred_test_en_no_mask_0525.json] {'[67, 68, 68, 69, 84, 85, "pos", "IQOO", "signal", "sucks"]', '[51, 54, 55, 56, 57, 61, "pos", "Android flagship version", "signal", "not feel any difference"]'}
+in both {'[145, 146, 152, 153, 149, 150, "pos", "IQOO", "signals", "better"]', '[24, 25, 29, 30, 32, 33, "neg", "IQOO", "signal", "bad"]', '[145, 146, 155, 156, 158, 161, "pos", "IQOO", "signal", "depends on places"]', '[100, 101, 106, 107, 108, 109, "neg", "iQOO", "signal", "bad"]', '[151, 152, 152, 153, 149, 150, "neg", "Huawei", "signals", "better"]', '[67, 68, 68, 69, 70, 73, "pos", "IQOO", "signal", "not so bad"]'}
+==================================
+doc_id 0131
+Xiaomi experience not good , which part do you mean ?
+My Xiaomi 11 , often drop frames , stuck ,
+Xiaomi 11 , Double Eleven I bought this machine and returned , this mechine word of mouth is not good
+I changed the screen for free because the screen burned on the day of the Mid - Autumn Festival . After about two weeks , the wifi was broken and I changed another new machine . Hard to describe
+Xiaomi 's experience this year is not good , so it wo n't die if you make an objective evaluation
+The mobile phone may not work , the computer is really okay
+I have n't tried it . I bought Huawei 's 14S computer . The workmanship and the screen are indeed good , but sometimes it will suddenly get stuck
+Does this count ? A 10S of my friend 's has too many bugs that can already make a videos of tens of minutes
+Bugs in a game , sometimes is a bug in a game
+Do n't make excuses , man ... You really never say uncle
+==================================
+doc_id 0141
+Well , I still want to buy one [ Er Ha ]
+Do n't be fooled
+What that means , bro
+It seems to be iterative reverse upgrade . Old users are not as good as dogs , people call it annual flagship
+Do n't buy it , you will regret it if you buy it , the advice from OnePlus 8
+My daily main function is taking pictures , but OnePlus takes pictures is really suck
+==================================
+doc_id 0151
+I just placed an order and changed the 18 in my hand . It 's too hot and the endurance is too bad
+The 12X battery life is really good , the 50%electric can hold close to 4 hours in the 4 G mode
+that 's great!Finally waited for another small - size machine have good endurance
+The only disadvantage is that the starting price is a bit higher , which is 200 higher than I expected , but I still bought the top - level . Then I will see if it will be dived , it 's ok if the diving range is not too large
+I read it wrong . It turned out that you said that Meizu 18 was too hot and the battery life was too bad . [ sad ]
+Yes , No matter how to adjust the resolution and refresh rate , endurance and heat are both suck , when 12x arrives , I will get it recycled to Xiaobaiyoupin .
+Haha Xiaobai has a high recycling price ? why do n't you sell it yourself ?
+12X is not hot at all , and the battery life is also very good
+Yes , I touched it in the store , and I felt heavier than 18 , more solid . I just ordered in Jingdong with reduce 100 , 18 the fever and slag , I endured 9 months and finally waited for another small screen . Does the 12x screen make eyes sour ?
+Not sour , I bought 8 + 128 with 2649 , and I also gave the charger and gift box . I used the screen of Samsung S20 hurt my eyes for a long time
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[247, 248, 248, 249, 249, 252, "neg", "12x", "screen", "make eyes sour"]', '[24, 25, 56, 57, 55, 56, "pos", "12X", "endurance", "good"]'}
+[pred_test_en_no_mask_0525.json] {'[247, 248, 248, 249, 249, 252, "other", "12x", "screen", "make eyes sour"]', '[279, 281, 277, 278, 281, 288, "neg", "Samsung S20", "screen", "hurt my eyes for a long time"]', '[8, 9, 63, 65, 66, 69, "pos", "18", "starting price", "a bit higher"]'}
+in both {'[24, 25, 25, 27, 29, 30, "pos", "12X", "battery life", "good"]', '[120, 122, 151, 152, 154, 155, "neg", "Meizu 18", "heat", "suck"]', '[120, 122, 127, 129, 130, 132, "neg", "Meizu 18", "battery life", "too bad"]', '[8, 9, 19, 20, 21, 23, "neg", "18", "endurance", "too bad"]', '[184, 185, 193, 195, 197, 199, "pos", "12X", "battery life", "very good"]', '[279, 281, 277, 278, 281, 284, "neg", "Samsung S20", "screen", "hurt my eyes"]', '[120, 122, 149, 150, 154, 155, "neg", "Meizu 18", "endurance", "suck"]', '[24, 25, 63, 65, 66, 69, "pos", "12X", "starting price", "a bit higher"]'}
+==================================
+doc_id 0161
+Xiaobai 's evaluation of the battery life does not look at it . The 11ultra , whose endurance is at the forefront , is actually sucks . With a bright screen for 5 hours . Do n't believe it .
+Do n't you always smear?What phone are you using ? Have you used the serial number of 11 u before talking here ?
+I use Reno 6 Pro with a better battery life . It 's fine the screen turn on for 7 - 8 hours .
+Laughing to death , what do I say with a 625 machine for 12 hours on ?
+As long as the 11U is not a severe gamer , it is no problem to use the screen for 5 hours
+Do you think about the screen can keep on for five hours is good ?
+2K+120 high brush , how can Android have a good battery life
+11Pro 's measured battery life is not bad , I do n't know if 11U and Pro are really so different
+Do not play games , it 's easy to keep the screen on for 7 - 8 hours
+==================================
+doc_id 0171
+The improvement of photos is not great , the battery life increases
+I just returned Xiaomi 12Pro and was ready to change to the Oneplus 10Pro . Xiaomi 's battery life is terrible . Turn off the 2 K screen , there is only a wechat in the background , and then chat for three minutes and lose one grid power
+Enjoy it then
+I think it 's okay
+You can choose oneplus in the future if you change your phone
+This one is fine
+More cost performance than Apple
+==================================
+doc_id 0181
+Magic3Pro 's main camera at 6,000 prices did not have an optical image stabilization . 66W single cell takes 70 minutes to be fully charged . I do n't know what a bunch of people think about the green glowing rear screen
+Taking photos is still quite stable , there are basically no optics , glory has always been this
+But more than 6000 machines ca n't do it . It 's really unreasonable . And the charging is too poor
+You 're right , but glory has always been blessed with special blessings . It 's not pleasing offline and sells well offline . Xiaomi is still a little hard to sell in China
+Zhou Dongyu is really not as good as drill row , but the strange curvature of glory , Samsung is also green , and Samsung flexibility is likely not to be so curved [ laughing without words ] [ laughs without words ]
+But that 's too green . Samsung is at least better , and its quality must be good . It 's not blind
+Others are okay , you said that Samsung is not blind , I do n't believe it . New week stroboscopic is much higher than LTPO ?
+Really ? Did n't use the optical image stabilization ? [ Yun Bei ]
+Yes , the main camera did n't , only for periscope
+[ sad ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[139, 140, 140, 141, 143, 148, "neg", "Samsung", "flexibility", "not to be so curved"]'}
+[pred_test_en_no_mask_0525.json] {'[139, 140, 140, 141, 142, 148, "neg", "Samsung", "flexibility", "likely not to be so curved"]', '[0, 1, 225, 227, 227, 229, "neg", "Magic3Pro", "main camera", "did n\'t"]'}
+in both {'[0, 1, 42, 44, 46, 48, "neg", "Magic3Pro", "Taking photos", "quite stable"]', '[0, 1, 77, 78, 79, 81, "neg", "Magic3Pro", "charging", "too poor"]'}
+==================================
+doc_id 0191
+No boast or smear , have used apples and Android , the Apple used for three years , just do n't get stuck [ Eat melon ] What can I do to stop ?
+Some people have to compare the two or three thousand Android with the 7,000 or eight thousand apples . If you have the ability , you can use the 7,000 or eight thousand Android flagship machines to compare .
+Coincidentally , My 8p , which has been used for half a year , can still beat Samsung compared with S10 . If you do n't believe it , try it
+6 for a while , 8P for a while , and occasionally borrowing other 's MAX to send a microblog , you have n't even touched the S10 . Auntie do n't smear
+My 128 G iPhone7 has begun to get stuck . I bought fake apples , too ? already used for three years .
+When expanding the capacity , the maintenance brother said that the battery status would also affect the speed . My battery was already broken , so I changed it , really fast , 8
+My battery is fine
+If you have money , why not change it every year ? keep it for three years ? My brother is an apple fan , he also changes the new apple machine once a year [ inexplicable ] . It wo n't really be like Tencent 's statistics , most Apple fans do n't have financial freedom ? Buy a mobile phone for three years [ doge ]
+What are you talking about dude ? It 's like I 'm saying what to eat for lunch , but what you said is what you read yesterday [ eat melon ]
+Apple , I think the biggest selling point is that it is easy to change hands in the second time , and there are many people who take over . Why are you using for three years ? Do n't say this , ask you , do Apple have file management ? The kind can check local files ? Apple users are not used to check files?Are you all used for entertainment ?
+==================================
+doc_id 0201
+It 's the bottom of an inch . The algorith m is not good . Daily photography is still inferior to iPhone and Samsung
+[ Er Ha ] In fact , the iPhone takes a daily picture not very good , especially the automatic mode
+After all , the bottom is small [ Yun Bei ]
+[ Laughing without words ] The apple can only boast the video ability , At present , photography is at the bottom
+But he still has great potential , he is squeezing toothpaste . [ Doge ]
+Depends on the lens [ Doge ] ,
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[62, 63, 67, 69, 65, 66, "neg", "apple", "video ability", "boast"]', '[62, 63, 73, 74, 77, 78, "neg", "apple", "photography", "bottom"]', '[23, 24, 15, 17, 19, 20, "pos", "Samsung", "Daily photography", "inferior"]', '[21, 22, 15, 17, 19, 20, "pos", "iPhone", "Daily photography", "inferior"]'}
+[pred_test_en_no_mask_0525.json] {'[32, 33, 35, 37, 37, 40, "neg", "iPhone", "daily picture", "not very good"]', '[21, 22, 16, 17, 19, 21, "pos", "iPhone", "photography", "inferior to"]', '[62, 63, 73, 74, 75, 78, "neg", "apple", "photography", "at the bottom"]', '[23, 24, 16, 17, 19, 21, "pos", "Samsung", "photography", "inferior to"]'}
+in both set()
+==================================
+doc_id 0211
+There is not much discount right now . find3pro can be considerd
+The top - end version is 5050 , JD self - employed
+12 + 512 Is n't it 5400 [ sad ]
+Student price+ first purchase gift+ make up an order
+x3p battery life is at the bottom , not recommended
+Turn off the positioning and close the bluetooth . These two consume power
+I do n't like oppo , I was still struggling with iQOO8Pro and mix4
+The former is comfortable to play games
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[79, 80, 85, 87, 83, 84, "other", "mix4", "play games", "comfortable"]', '[43, 44, 44, 46, 49, 50, "neg", "x3p", "battery life", "bottom"]', '[77, 78, 85, 87, 83, 84, "pos", "iQOO8Pro", "play games", "comfortable"]'}
+[pred_test_en_no_mask_0525.json] {'[43, 44, 44, 46, 47, 50, "pos", "x3p", "battery life", "at the bottom"]'}
+in both {'[43, 44, 44, 46, 51, 53, "neg", "x3p", "battery life", "not recommended"]'}
+==================================
+doc_id 0221
+I will come first , this time the color and material of the Honor 60 looks so cheap . . . rush people to buy 50 ...
+50 is almost the same
+No no , no , 50 looks much better than 60
+The texture is not good
+Really sour [ DOGE ] [ Doge ] The texture and appearance are much better than Xiaomi . Unless you are blind [ poor ]
+I use glory , this time it is really ugly
+you understand it so much
+what [ Meow ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[13, 15, 10, 11, 17, 18, "pos", "Honor 60", "material", "cheap"]', '[13, 15, 8, 9, 17, 18, "pos", "Honor 60", "color", "cheap"]'}
+[pred_test_en_no_mask_0525.json] {'[64, 65, 59, 60, 61, 63, "neg", "Xiaomi", "appearance", "much better"]', '[64, 65, 57, 58, 61, 63, "neg", "Xiaomi", "texture", "much better"]'}
+in both {'[13, 15, 59, 60, 61, 63, "pos", "Honor 60", "appearance", "much better"]', '[13, 15, 57, 58, 61, 63, "pos", "Honor 60", "texture", "much better"]'}
+==================================
+doc_id 0231
+Brother Shui , I am holding an s10 + , should I change to the 22 or the domestic flagship of the 9000 series ? In the first half of the year , did the 9000 series have a direct screen in addition to Redmi ?
+In view of the serious situation of Qualcomm this year , it is better to buy an S21 + or S21U
+21 + 1080p In addition , Samsung 's charging life is really a bit unbearable . 9000 + color os is now the most attractive to me , and s10 + is indeed a bit stuck now ...
+My S10 + is only for work now , and I feel that it can be stronger , a little bit of a slow , but it will not be stuck ...
+Honor magic4 medium cup is 9000 + straight screen
+Honor , no no no [ Doge ]
+Do n't you consider about today 's note 20u ? [ dizzy ]
+Read the reviews , detoxified water ...
+==================================
+doc_id 0241
+The main oleophobic layer has a lifespan of friction times . If the film is not applied for a long time , the back of the screen will become more and more astringent , and the part will become more and more astringent .
+Yes , but I think the film affects the look and feel , and the film scratches more easily than the screen .
+It does n't matter if the film is scratched . If the screen is scratched , the second - hand price of the 13pro I use is at least 300 lower ( slight scratches ) . And the oleophobic layer will disappear quickly without the film , and it feels very uncomfortable . The shell can be omitted , but the film must not be attached . In comparison , more than 20 films are much cheaper
+13Pro did not have the oil layer at all ?
+After the oleophobic layer has fallen off , then apply the film , is it okay ? [ question ]
+Speaking of oleophobic layer , does n't Huawei have black technology that can be applied later [ doge ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[144, 145, 149, 151, 151, 153, "pos", "13Pro", "oil layer", "at all"]', '[90, 91, 116, 117, 117, 119, "pos", "13pro", "feels", "very uncomfortable"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both set()
+==================================
+doc_id 0251
+Learn from the lessons of the next generations of mix
+Holding the mix2s and watching the current mix4 really left tears of disappointment
+MIX2S is really good to use
+really
+The mix4 is equipped with this poor MIUI system , and almost made me want to smash the phone every day .
+MIX4 under - screen fingerprint really suck ! [ weak ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[31, 32, 38, 39, 36, 37, "neg", "mix4", "system", "poor"]'}
+in both {'[52, 53, 56, 57, 58, 59, "neg", "MIX4", "fingerprint", "suck"]'}
+==================================
+doc_id 0261
+In fact , Meizu is really good to use . I have both of its phones and really like it
+Easy to use is easy to use , but the after - sales service of small factories is not good
+I have n't contacted the after - sale service , but mine never seem to be repaired .
+The 16s has been used for a year , and the screen has been out of stock
+Using Meizu is because of the system
+[ doubt ]
+?
+I have also used two Meizu mobile phones , and I feel pretty good except the screen does not seem to be very solid [ Yun Bei ] [ Yun Bei ]
+it is true!Mine is also because of the screen [ disappointed ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[91, 92, 102, 103, 104, 110, "neg", "Meizu", "screen", "not seem to be very solid"]', '[59, 60, 69, 70, 72, 75, "pos", "16s", "screen", "out of stock"]', '[76, 77, 81, 82, 78, 79, "pos", "Meizu", "system", "because"]', '[35, 37, 30, 34, 38, 40, "neg", "small factories", "after - sales service", "not good"]'}
+[pred_test_en_no_mask_0525.json] {'[91, 92, 102, 103, 104, 110, "pos", "Meizu", "screen", "not seem to be very solid"]', '[59, 60, 69, 70, 72, 75, "neg", "16s", "screen", "out of stock"]'}
+in both {'[3, 4, 30, 34, 38, 40, "neg", "Meizu", "after - sales service", "not good"]'}
+==================================
+doc_id 0271
+The iPhone13 battery life is so good ?
+13pm is better , One charge a day is enough
+My classmate bought 13pro , the adaptive refresh is good , but it is too expensive ... Hahaha , let 's buy 13
+No problem with 13 [ doge ] at least full blood at 60hz , not a frame - locked ltpo , and then scan the code with the camera [ laughs without speaking ]
+A15 has low power consumption [ laugh ha ha ]
+Good reviews , I 've been looking at Samsung 's machines these days . I bought s21 from JD.com at 3500 , but it seems that the battery life is too poor ... It seems that I 'd better buy Apple directly . I 'm a little scared of this phone 's battery life now .
+Compared with this , the s21 really has no advantages [ laugh haha ] Honestly 10 should be replaced , my upper mobile phone is the Honor Play , after using it for a while , it is very stuck , because my eyes ca n't stand the low frequency pwm , so I bought the Apple 11
+If Apple is a 5000mh battery ... I dare not think about it
+Then it is more than half a catty
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[21, 22, 24, 26, 27, 28, "pos", "13pro", "adaptive refresh", "good"]'}
+[pred_test_en_no_mask_0525.json] {'[21, 22, 25, 26, 27, 28, "pos", "13pro", "refresh", "good"]', '[125, 126, 137, 139, 130, 133, "pos", "Apple", "battery life", "a little scared"]'}
+in both {'[101, 102, 112, 114, 115, 117, "neg", "s21", "battery life", "too poor"]', '[1, 2, 2, 4, 5, 7, "other", "iPhone13", "battery life", "so good"]'}
+==================================
+doc_id 0281
+No , an old kerosene who was hurt by Meizu passed by [ allow sad ]
+I used 16xs back then , but I was so mad at Meizu that I turned to use OPPO
+I switched back to Xiaomi from 16sp
+At the beginning , the Meizu system was slow to update , and the signal was poor , but I ca n't remember the bug , because OPPO also has it . The point is that the configuration of other companies is better than it is cheaper than it [ allow sad ]
+From MX5 to 16plus , it took me seven years , and now I have used 13 . Now even Meizu have a mobile phone with gold rims that can make calls directly to Pluto , and I will not buy it again [ Tan Shou ]
+Haha , when 15 was released , I was so enthusiastic , I jumped directly from 7 to 15 , bought the top 15p without any hesitation , and now I have returned to Apple [ Love You ]
+==================================
+doc_id 0291
+Check out Apple 's signal experience .
+[ doge][doge][doge][doge]You should check out the signal experience of Meizu and Xiaomi
+What 's wrong with Meizu
+I really do n't want to pick on you , have you used it ? The signal is poor , 12/13 is no problem at all , you really just speck irresponsible .
+Agree , you do n't know if you have used it or not , just complain there
+Full signal , Shijiazhuang
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[44, 45, 40, 41, 42, 43, "pos", "12/13", "signal", "poor"]'}
+in both set()
+==================================
+doc_id 0301
+Really ca n't be more true , me too , I use mate30 , except for taking pictures , everything else is good . Taking pictures is really suck , to be honest why so many people troll you .
+Just buy the mate series to play games , and take pictures of the p series .
+I do n't ask the mate to take good photos , at least not to lose color , not to whiten . Basic photography ca n't even compare to a thousand yuan machine
+What you said is too fake that ca n't compared to a thousand - yuan mobile phone . The thousand - yuan phone is much worse , The thousand yuan mobile phone is terrible . This p40 is ok . The photos are really not as real as those taken by Apple , but the screen of Apple is also relatively good , 11p is too wide , there is no 5 G , but everything else is very good . However you are obviously smearing Huawei .
+Same . I am using xsmax , want to change and bought a second hand mate30 . When I got it in my hand , it was r eally bad to take pictures , and the smearing feeling was too serious . Maybe it would be better to shoot outdoors . However , the indoor 's is really bad . Do n't know what 's the problem ... the details are way worse than the iPhone , nothing beats the iPhone except the signal
+To tell the truth , Apple is a relatively balanced mobile phone in all aspects . I started using Apple 3Gs , all tablet PCs are from Apple , and I feel normal use in general , no problem for three years , and occasional small problems after three years . Perception is not too strong .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[193, 194, 232, 233, 236, 237, "pos", "mate30", "indoor", "bad"]', '[126, 127, 131, 132, 134, 140, "pos", "p40", "photos", "not as real as those taken"]'}
+[pred_test_en_no_mask_0525.json] {'[12, 13, 16, 18, 22, 23, "pos", "mate30", "taking pictures", "good"]', '[126, 127, 131, 132, 134, 140, "neg", "p40", "photos", "not as real as those taken"]', '[193, 194, 232, 233, 236, 237, "neg", "mate30", "indoor", "bad"]', '[193, 194, 247, 248, 250, 251, "neg", "mate30", "details", "worse"]', '[193, 194, 209, 211, 206, 208, "neg", "mate30", "take pictures", "eally bad"]', '[258, 259, 261, 262, 256, 257, "pos", "iPhone", "signal", "beats"]'}
+in both {'[258, 259, 261, 262, 255, 257, "pos", "iPhone", "signal", "nothing beats"]', '[153, 154, 165, 167, 168, 170, "pos", "11p", "everything else", "very good"]', '[147, 148, 145, 146, 150, 152, "pos", "Apple", "screen", "relatively good"]', '[12, 13, 24, 26, 28, 29, "neg", "mate30", "Taking pictures", "suck"]', '[193, 194, 214, 216, 217, 219, "neg", "mate30", "smearing feeling", "too serious"]'}
+==================================
+doc_id 0311
+I also upgraded my phone to 11 pro max a few days ago . Actually , it 's really enough . I do n't need to use a lot of the extra things from 13pm .
+No totally new ones now ?
+US version without lock acts as a new machine
+Where is the channel
+This phone is great and has great battery life . But I am a loyal customer of lcd
+My wife is also using 11 , the lcd is durable and comfortable , but the oled is really good for watching hdr video . I suggest you go and see the screen at 13pm , it 's really shocking
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[107, 108, 105, 106, 112, 113, "pos", "13pm", "screen", "shocking"]'}
+[pred_test_en_no_mask_0525.json] {'[107, 108, 105, 106, 112, 113, "neg", "13pm", "screen", "shocking"]'}
+in both {'[6, 9, 62, 64, 61, 62, "pos", "11 pro max", "battery life", "great"]'}
+==================================
+doc_id 0321
+Use Mi 6
+Is the high frame rate of King of Glory stable ? How is the battery life ? [ Puzzled ]
+The frame rate is stable at about 55 , and the battery life is 835 . I am satisfied
+I still want to buy oneplus 5 . I used oneplus 3 be fore . It 's really comfortable .
+There is no film on the Mi 6 , and scratches have appeared [ allow sad ]
+I bought 2 high - definition films on the official website , and I am still using them [ laughs without saying a word ] It 's ok without the phone case , the film has to be pasted , otherwise there will be scratches and look uncomfortable .
+Xiaomi official website?Then I bought it too
+The freight is 10 yuan
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[11, 12, 5, 10, 12, 13, "other", "Glory", "high frame rate of King", "stable"]'}
+in both {'[11, 12, 17, 19, 14, 15, "other", "Glory", "battery life", "How"]'}
+==================================
+doc_id 0331
+11U is a lot of stacking materials , and the actual experience is particularly poor
+Let 's talk about it when you have a 11u [ two ha ]
+The photoshoot is terrible , not at all up to the gn2 real level , and the photography is equally terrible . If you do n't believe me , look at my space , I 'm already out , the performance is bad , the charging speed is not bad , the screen is good , the r corner is too ugly , oh , by the way , do n't brag about the new system , I used it for half a year without optimization
+You are really interesting , blahblahblah , other people use 11u to take good pictures , and the photography is also good , although not as good as Apple Samsung . Oh , by the way , whether taking pictures is good or not also depends on the individual [ two ha ] .
+Indeed , the system is not good
+right ?
+It 's very bad to use . The first few systems often have a black screen and no response . The camera and zoom will also freeze . The game has not been optimized until now . I use it now for playing games and taking pictures , and I still use the iPhone for daily use
+Your Hasselblad is worthless in front of me !
+Is this why Lei Jun pursues Leica ? [ question ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[24, 25, 46, 47, 49, 50, "neg", "11u", "photography", "terrible"]', '[24, 25, 74, 76, 77, 79, "pos", "11u", "charging speed", "not bad"]', '[24, 25, 81, 82, 83, 84, "pos", "11u", "screen", "good"]', '[0, 1, 46, 47, 49, 50, "neg", "11U", "photography", "terrible"]', '[0, 1, 74, 76, 77, 79, "pos", "11U", "charging speed", "not bad"]', '[24, 25, 69, 70, 71, 72, "pos", "11u", "performance", "bad"]'}
+[pred_test_en_no_mask_0525.json] {'[125, 126, 129, 130, 128, 129, "pos", "11u", "pictures", "good"]', '[0, 1, 30, 31, 32, 33, "neg", "11U", "photoshoot", "terrible"]'}
+in both {'[0, 1, 11, 12, 13, 15, "neg", "11U", "experience", "particularly poor"]', '[125, 126, 133, 134, 136, 137, "pos", "11u", "photography", "good"]', '[0, 1, 172, 173, 174, 176, "neg", "11U", "system", "not good"]'}
+==================================
+doc_id 0341
+4000 + buying Apple and Huawei is always the best solution
+No more than 6,000 , Apple , Huawei , not as good as dog [ laughing but not speaking ] [ laughing and not speaking ]
+Smart people [ cool][cool][cool][cool ] ! Huawei must buy high - end ! Low - end just look at them ! 4000 price Xiaomi is the first choice ! Do whatever you want if you have enough money ! The optimal solution for Huawei Apple is 5000 to 6000 + ! Around 4000 , you can only consider Xiaomi , O V , Meizu ! Do not ask me why ! Because that 1000 to 2000 is that called some tax [ cool][cool][cool][cool][cool][cool ]
+The configuration of Huawei with more than 4000 may be worse than that of Xiaomi with more than 4000 , but the actual experience must be far better than Xiaomi
+But Huawei 's latest model does n't have 5 G
+Do n't buy it now , no need
+It 's really not necessary , I really want to use emui , and glory is fine too
+Huawei 's p40 with more than 4000 really suck [ allow sad ]
+Taking pictures is really hard to say . .
+==================================
+doc_id 0351
+Tangled one plus 10pro , IQOO9pro , Realme , gt2pro [ allow sad ] , can the blogger analyze which one is better to choose , [ tears ]
+Realme 's gt2Pro performance scheduling is very aggressive this time , which is more radical than iQOO9Pro 's performance scheduling . You can consider it if you play games or you are like straight - screen . The iQOO9Pro is the most balanced , and the OnePlus 10Pro has a good photo effect .
+Thank you [ Heart ]
+Among the three , OnePlus 10pro has the best image , iqoo9pro is the most like a bucket and has better performance scheduling . For Realme , it mainly depends on whether you like straight screen or not
+Xiaomi pro and iqoo9pro , which one do you recommend ?
+I bought the gt2 pro incense , the standby is good , the game is very cool
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[29, 30, 32, 34, 35, 37, "pos", "Realme", "performance scheduling", "very aggressive"]', '[45, 46, 47, 49, 42, 44, "pos", "iQOO9Pro", "performance scheduling", "more radical"]', '[75, 77, 80, 82, 79, 80, "pos", "OnePlus 10Pro", "photo effect", "good"]'}
+[pred_test_en_no_mask_0525.json] {'[45, 46, 47, 49, 42, 44, "neg", "iQOO9Pro", "performance scheduling", "more radical"]'}
+in both {'[140, 142, 150, 151, 152, 154, "pos", "gt2 pro", "game", "very cool"]', '[99, 100, 109, 111, 108, 109, "pos", "iqoo9pro", "performance scheduling", "better"]', '[31, 32, 32, 34, 35, 37, "pos", "gt2Pro", "performance scheduling", "very aggressive"]', '[140, 142, 145, 146, 147, 148, "pos", "gt2 pro", "standby", "good"]'}
+==================================
+doc_id 0361
+This is true of Weibo , only 60hz
+Which Xiaomi phone do you use to swipe Weibo at 60Hz ? ?
+Just this one , click to find , slide down , keep stuck
+Mine is also Mi 11 , why did n't I locked , Weibo has never locked to 60Hz
+Which one ? ? ?
+Mi 11 , I have a small tail , do n't say I 'm useless [ two ha ]
+10pro Weibo is not locked , 11 What optimization ?
+My Xiaomi Mi 11 is very smooth except that it is hot , it is not stuck at 120hz below 45 degrees .
+==================================
+doc_id 0371
+In fact , many people choose PM simply because the screen is big
+The problem is that last year promax was a big improvement over pro
+Just a sensor anti - shake thing
+There is no difference in this generation , 12pro and max cameras are quite different , 13pro and max three lenses are exactly the same
+I am , simply because the screen is big . So is my bro
+I basically too , so it 's good to be big , and if there is a little difference , of course it 's better .
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[19, 20, 23, 24, 22, 23, "pos", "promax", "improvement", "big"]'}
+in both {'[43, 44, 44, 45, 46, 48, "other", "max", "cameras", "quite different"]', '[41, 42, 44, 45, 46, 48, "other", "12pro", "cameras", "quite different"]', '[49, 50, 52, 54, 55, 58, "other", "13pro", "three lenses", "exactly the same"]', '[51, 52, 52, 54, 55, 58, "other", "max", "three lenses", "exactly the same"]'}
+==================================
+doc_id 0381
+I am a Glory 50 user , who use it will knows [ allow sadness][allow sadness][allow sadness][allow sadness][allow sadness ]
+What 's wrong
+Let other users who have used it comment . I am a user of the old Honor 20 . I am going to change to 50 . Now 20 can kill 50 in seconds . . .
+There is no such exaggeration [ allow sad ] I have Honor 20 , Honor 30 and Honor 50 , I do n't think there is such a big difference . 50 is better than 20 in terms of taking pictures , but it is worse than 30 . The screen feels about the same .
+Honor 50 is rubbish , the paint peels off in two months , and the camera is a joke
+The camera is indeed a PPT , and it really makes people cry with laughter .
+The magic3pro 's pie in the sky has n't been finished yet , and they 're starting to draw 60 's again .
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[91, 92, 110, 112, 114, 115, "other", "50", "screen feels", "same"]'}
+in both {'[91, 92, 99, 101, 93, 94, "pos", "50", "taking pictures", "better"]', '[95, 96, 99, 101, 93, 94, "pos", "20", "taking pictures", "better"]', '[116, 118, 131, 132, 134, 135, "neg", "Honor 50", "camera", "joke"]'}
+==================================
+doc_id 0391
+There are many shortcomings . A good friend of mine has been using Huawei 's flagship mobile phone for 6 years . A while ago , his Huawei Mate20 Pro screen was broken , so he simply bought the iPhone 13 . After using it for a few days , he reported that Apple was difficult to use .
+Xiaomi is still easy to use [ doge ]
+Compared with iPhone , there are advantages and disadvantages , buy on demand
+These functions are not necessary for many people [ two ha ]
+What is necessary ? iOS is more secure , relatively closed , with better privacy , good photo and video recording experience , high - quality film , suitable for vlog shooting , less APP advertisements , and will not randomly induce users to download other messy apps , right ? [ doge ]
+I also switched from Apple to Huawei and then back to Apple . I feel that Huawei is really good , it can split the screen and I can reply to messages when I play games . I have used my mate20pro for three years , and it is still super smooth . The screen is broken so I changed one but then the screen is broken again , so I bought an Apple , but I regretted a little now [ tears ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[97, 98, 123, 125, 121, 122, "pos", "iOS", "vlog shooting", "suitable"]'}
+[pred_test_en_no_mask_0525.json] {'[97, 98, 123, 125, 121, 122, "neg", "iOS", "vlog shooting", "suitable"]'}
+in both {'[27, 30, 30, 31, 32, 33, "neg", "Huawei Mate20 Pro", "screen", "broken"]', '[97, 98, 127, 129, 126, 127, "neg", "iOS", "APP advertisements", "less"]'}
+==================================
+doc_id 0401
+Change it , mine is also replaced from xs max , the battery life has improved significantly , and the other differences are not big [ doge ]
+Holding XSM with a sincere asks , what about the signal ?
+Better , but limited [ allow sad ]
+What did you buy ? 13pm ?
+What do you change
+13PM
+==================================
+doc_id 0411
+Well , the same model of k30 pro [ doge][doge][doge ]
+The 686 optimization of k30pro is too bad [ two ha ]
+Not bad [ Er Ha ]
+Just compare and see , I just finished shooting today
+Finally , there is a same main camera as the k30pro . It can finally optimized . The white balance of imx686 is too bad [ angry ]
+Think too much , even if k50 uses 686 , the algorithm will not be decentralized
+It will be optimized more or less
+The screen of the K30 pro is really good . Whether it is 1300 or 6400 , it is not good for taking pictures . It can only be said for daily use .
+Indeed , the screen is really good , although there is no high brush , but the quality is really good , much better than the k20pro and the k40
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[15, 16, 12, 14, 23, 25, "pos", "k30pro", "686 optimization", "Not bad"]'}
+[pred_test_en_no_mask_0525.json] {'[6, 8, 127, 128, 130, 131, "pos", "k30 pro", "screen", "good"]'}
+in both {'[60, 61, 57, 59, 62, 64, "neg", "imx686", "white balance", "too bad"]', '[73, 74, 78, 79, 80, 83, "neg", "k50", "algorithm", "not be decentralized"]', '[94, 96, 127, 128, 130, 131, "pos", "K30 pro", "screen", "good"]', '[15, 16, 12, 14, 17, 19, "neg", "k30pro", "686 optimization", "too bad"]', '[94, 96, 112, 114, 109, 111, "neg", "K30 pro", "taking pictures", "not good"]', '[94, 96, 91, 92, 98, 99, "pos", "K30 pro", "screen", "good"]', '[94, 96, 141, 142, 144, 145, "pos", "K30 pro", "quality", "good"]'}
+==================================
+doc_id 0421
+Now Xiaomi 's miui is really difficult to use . Please let me know which mobile phone system is more comfortable to use . Also , do all manufacturers have the functions of Xiaomi , the video game assistant ?
+I used Apple before , but now I have switched to Huawei . The biggest feeling is that Huawei 's battery is too durable . The game assistant that I do n't understand it , but there is a game mode when playing games .
+My friend is also a Huawei mobile phone , and the 5 G battery life will last for more than a day
+I have used Huawei and said I am not optimistic about it . If you do n't use your smartphone 's features a lot , Huawei phones are fine . His interface vision and office functions are very strong . ( But smart voice does n't seem to be very smart ) It looks like colors and lines , as well as optional themes and fonts
+All are great and comfortable . Samsung does not recommend . Samsung is not so easy to use , it belongs to a regular brand , the other mobile phones have a prominent attribute , but Samsung is a pentagon warrior with every part score of 7.8 .
+Oppo and vivo are very good in personalization , life and intelligence . It 's hard for me to say everything about oppo right now . It has a lot of similarities with vivo , but there are also differences . I just ca n't tell the difference now . For vivo , intelligent somatosensory operation , voice assistant information visualization , small functions that are convenient for life , etc . are very practical .
+Personal experience , Huawei and Apple . I do n't know if it 's because of my bad luck or because of its high defective rate . I 've bought Samsung twice , and the experience is absolutely terrible .
+Which model of Samsung did you buy , is the system poor ? I want to buy s22
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[58, 59, 60, 61, 62, 64, "pos", "Huawei", "battery", "too durable"]', '[327, 329, 332, 333, 334, 336, "neg", "Samsung twice", "experience", "absolutely terrible"]', '[1, 2, 3, 4, 6, 9, "neg", "Xiaomi", "miui", "difficult to use"]', '[90, 91, 98, 100, 101, 107, "pos", "Huawei", "battery life", "last for more than a day"]'}
+[pred_test_en_no_mask_0525.json] {'[327, 328, 332, 333, 334, 336, "neg", "Samsung", "experience", "absolutely terrible"]', '[58, 59, 60, 61, 62, 64, "neg", "Huawei", "battery", "too durable"]', '[33, 34, 36, 38, 38, 39, "other", "Xiaomi", "video game", "assistant"]', '[132, 133, 149, 151, 151, 158, "other", "Huawei", "smart voice", "does n\'t seem to be very smart"]'}
+in both {'[221, 222, 232, 233, 225, 227, "pos", "Oppo", "intelligence", "very good"]', '[132, 133, 138, 140, 144, 146, "pos", "Huawei", "interface vision", "very strong"]', '[223, 224, 228, 229, 225, 227, "pos", "vivo", "personalization", "very good"]', '[221, 222, 228, 229, 225, 227, "pos", "Oppo", "personalization", "very good"]', '[223, 224, 232, 233, 225, 227, "pos", "vivo", "intelligence", "very good"]', '[132, 133, 141, 143, 144, 146, "pos", "Huawei", "office functions", "very strong"]'}
+==================================
+doc_id 0431
+OnePlus 1 , 3 , 7pro users , see how bad OnePlus 9 , 9Pro , 9R , 9RT are this year . What ? do n't let me say
+9pro and Kazakh Soviet co - branded is good for taking pictures [ doge ]
+The mode updated later is a bit interesting . In the early stage , I feel that it is not as good as X3pro [ allow sad ]
+Harzu is good [ like ]
+Pro is ok , good workmanship
+Aesthetics are not good , and taking pictures with joint names is useless . If the workmanship is not good , it is not a OnePlus . How can the workmanship be bad with the green factory production line .
+We both use the same phone .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[68, 69, 56, 58, 64, 68, "pos", "X3pro", "early stage", "not as good as"]', '[32, 37, 40, 42, 38, 39, "pos", "Kazakh Soviet co - branded", "taking pictures", "good"]'}
+[pred_test_en_no_mask_0525.json] {'[79, 80, 85, 86, 87, 89, "neg", "Pro", "Aesthetics", "not good"]'}
+in both {'[30, 31, 40, 42, 38, 39, "pos", "9pro", "taking pictures", "good"]', '[79, 80, 91, 93, 97, 98, "neg", "Pro", "taking pictures", "useless"]'}
+==================================
+doc_id 0441
+Blogger , why does the 12pro consume so much power ?
+I advise you to return it as soon as possible . My 11u battery life is poor , I really want to smash it when I charge it three times a day .
+Ready to change to 12 , what do you say ?
+2k+120 high refresh rate . No wonder consume power quickly
+How about Xiaomi 12 , I want to change mine .
+Large screen , high resolution , Snapdragon 8 Gen OnePlus battery is not very big
+I was so scared that I adjusted the refresh rate to 60 .
+==================================
+doc_id 0451
+Although Apple charges slowly , it consumes slowly
+Really?Did I buy fake goods ?
+Yes , you bought a fake , my apple can hold heavy use for a day after fully charged
+My xr is not worthy at all . I play occasionally at work , and there only be 27 when I get off work today .
+My girlfriend 12 came to play with me one day , at night it ran out of battery , my mate20 is a phone 3 years ago , it still has half of the battery [ rabbit][rabbit ]
+Mainly she 's playing on her phone , we do n't know what you 're playing [ doge ]
+I 'm playing with her [ Rabbit ]
+Huawei is fast charging , slow power consumption . My friend uses apple , and I see that he is either charging or is about to run out of power [ Yunbei ]
+You said the opposite . Apple is the slow power consumption . It is mainly because the battery is only 3,000 . This time the 13promax has reached 4,000 , which make it 's battery life better than basically all Android phones . The previous Apple battery was about 2,000 ma .
+And Apple is only have 4000 in 13 , the battery I bought for my mate30 two years ago is 4200
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[1, 2, 6, 7, 7, 8, "neg", "Apple", "consumes", "slowly"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[182, 183, 191, 193, 193, 194, "pos", "13promax", "battery life", "better"]', '[162, 163, 166, 168, 165, 166, "neg", "Apple", "power consumption", "slow"]', '[1, 2, 2, 3, 3, 4, "neg", "Apple", "charges", "slowly"]', '[124, 125, 130, 132, 129, 130, "neg", "Huawei", "power consumption", "slow"]'}
+==================================
+doc_id 0461
+Forget it . My previous 12p , playing the King of Glory was hot ... Dropped frames
+Really ? My Mi 11 is also unable to stabilize at 90 because of the heat
+Really , especially when charging
+My friend also told me that Apple is hot when playing games , and my Mi 11 is also hot when playing games , but there is still no pressure to play King of Glory at 60 frames . His Apple 11Pro dropped frames when playing King of Glory at 60 frames , and I ca n't understand it . I thought he was exaggerating
+Mine too , Apple 12 ca n't be stable at 60 frames when play King of Glory , Android flagships are all 120
+Apple 's heat dissipation is really bad
+That 's because Apple 's heat dissipation is too bad . Put it on the pad and you will know that the A series is stronger . [ Allow sad ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[106, 108, 116, 120, 108, 112, "neg", "Apple 12", "play King of Glory", "ca n\'t be stable"]', '[5, 6, 7, 12, 15, 17, "pos", "12p", "playing the King of Glory", "Dropped frames"]'}
+[pred_test_en_no_mask_0525.json] {'[106, 108, 116, 120, 108, 115, "neg", "Apple 12", "play King of Glory", "ca n\'t be stable at 60 frames"]'}
+in both {'[78, 80, 83, 87, 80, 82, "neg", "Apple 11Pro", "playing King of Glory", "dropped frames"]', '[53, 55, 59, 61, 57, 58, "neg", "Mi 11", "playing games", "hot"]', '[5, 6, 7, 12, 13, 14, "neg", "12p", "playing the King of Glory", "hot"]', '[53, 55, 69, 73, 66, 68, "pos", "Mi 11", "play King of Glory", "no pressure"]', '[136, 137, 138, 140, 141, 143, "neg", "Apple", "heat dissipation", "too bad"]'}
+==================================
+doc_id 0471
+S22 is too good , right ? ? ?
+Buy this thing at this price ?
+You go to buy Xiaomi
+He is Mi 's dog , you know
+Think about it , this thing is the same size as the Xiaomi Mi 12 . The Xiaomi Mi 12 has a 4500 battery and a 66w fast charge . The battery life of the Xiaomi Mi 12 is not good , then this battery life of the 3700 is even worse .
+Can Xiaomi compare with Samsung ?
+The same Android and Snapdragon 8 gen 1 , why ca n't compare [ Sweat ]
+1080 , 8 G memory , such a small battery , 25W power ... This is a garbage
+25W beat domestic 66W
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[64, 67, 73, 75, 79, 81, "neg", "Xiaomi Mi 12", "battery life", "even worse"]', '[0, 1, 113, 114, 112, 113, "neg", "S22", "battery", "small"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[64, 67, 60, 62, 68, 70, "neg", "Xiaomi Mi 12", "battery life", "not good"]'}
+==================================
+doc_id 0481
+In addition to the smooth system , what advantages does Apple have ?
+[ doge ] I do n't know about the advantages . Anyway , Samsung treated China differently during the battery explosion before . Unbelievable there are still Chinese people who buy Samsung .
+The United States suppresses Huawei , spreads conspiracy theories , smears China , and some people still buy Apple and send bullets to the United States [ haha ]
+[ Glutton ] Is n't South Korea more malicious towards China ? We are all boycotting the Korean Wave . At least two phones exploded . Apple is more attentive to Chinese users . Hahahaha , unlike Samsung , do n't treat you as human beings
+Have to admit that taking pictures is also an advantage
+ghost in the photo ?
+Taking portrait photos is better than Huawei 's [ Allow Sad ]
+A phone not for smoothness , then for what ? I do n't understand
+For show off
+What can a mobile phone show off ? I can buy it whatever
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[26, 27, 32, 34, 29, 30, "neg", "Samsung", "battery explosion", "differently"]', '[10, 11, 125, 127, 130, 131, "neg", "Apple", "taking pictures", "advantage"]'}
+[pred_test_en_no_mask_0525.json] {'[10, 11, 125, 127, 130, 131, "pos", "Apple", "taking pictures", "advantage"]', '[26, 27, 32, 34, 29, 30, "pos", "Samsung", "battery explosion", "differently"]'}
+in both {'[142, 143, 136, 139, 140, 141, "neg", "Huawei", "Taking portrait photos", "better"]'}
+==================================
+doc_id 0491
+Is there anyone the same as me , the s10 + shows that the battery status is poor ? Is it a big improvement after changing ?
+I think it 's the same whether or not I change it . Before I changed it , the test in the community still showed that the battery was healthy . After changing , the test showed that the battery was poor ....
+Because you did not go to the official to exchange , the number of cycles must be reset to zero , or it is the same as no replacement , there is a voltage limit [ doge ]
+It 's the official after - sales center , so he did n't fix it well for me
+How to check the battery status
+Open the Galaxy community , there is an after - sales service , just click on the diagnosis
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[9, 11, 66, 67, 68, 69, "neg", "s10 +", "battery", "poor"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[9, 11, 54, 55, 56, 57, "pos", "s10 +", "battery", "healthy"]', '[9, 11, 14, 15, 17, 18, "other", "s10 +", "battery", "poor"]'}
+==================================
+doc_id 0501
+I would like to ask , if I occasionally play live games , do n't play games like PUBG or Honor of the King , and only need to take pictures ( just okay is enough ) , fast charging and battery life , what kind of phone is recommended [ laugh cry ] I 'm holding Mi 8 now [ Yun Sad ] wants to change machine . I want to change to Mi 12p , but I do n't know if there is 12 + 512 [ Allow sad ]
+Your requirements are so low , I think 12 is enough [ laugh cry ] but 12 is not estimated to have 512
+Because I have a strong demand for fast charging and batteries , it would be nice if the processor was a flagship . But the 12 is only 67 , the p has 120 , I want to buy a p , but I do n't know if there is a 512 , because this year 11p does not have 12 + 512
+There should be 512 , after all , the storage requirements are getting bigger and bigger [ laugh cry ]
+The demand is amazingly same
+Because I do n't like to play games . If it were n't for the Mi 8 's battery life became bad and lack of memory , I might continue to use it .
+fine
+Is there a white 12
+==================================
+doc_id 0511
+In fact , the design , screen , and experience of the Meizu 18 series are excellent , but the camera optimization has already opened the gap with the first echelon .
+In fact , Meizu is really excellent in many places , especially the small window experience is first - class , the photo and video experience is better than Huawei 's ( although the photo effect is average ) , and the motor experience [ laugh cry ]
+Last year and today , a lot of manufacturers have customized linear motors , how big is the size and how strong the performance is , but the actual experience is not as good as Meizu [ doge ]
+They ca n't improve , so just do some gimmicky gimmicks
+Yes
+Yes
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[12, 15, 20, 22, 24, 27, "neg", "Meizu 18 series", "camera optimization", "opened the gap"]', '[35, 36, 66, 68, 69, 70, "neg", "Meizu", "photo effect", "average"]'}
+[pred_test_en_no_mask_0525.json] {'[12, 15, 20, 22, 26, 31, "pos", "Meizu 18 series", "camera optimization", "gap with the first echelon"]', '[35, 36, 66, 68, 69, 70, "other", "Meizu", "photo effect", "average"]'}
+in both {'[35, 36, 54, 55, 59, 60, "pos", "Meizu", "photo", "better"]', '[35, 36, 56, 58, 59, 60, "pos", "Meizu", "video experience", "better"]', '[115, 116, 108, 110, 111, 115, "pos", "Meizu", "actual experience", "not as good as"]', '[12, 15, 9, 10, 16, 17, "pos", "Meizu 18 series", "experience", "excellent"]', '[12, 15, 6, 7, 16, 17, "pos", "Meizu 18 series", "screen", "excellent"]', '[12, 15, 20, 22, 24, 31, "pos", "Meizu 18 series", "camera optimization", "opened the gap with the first echelon"]', '[12, 15, 4, 5, 16, 17, "pos", "Meizu 18 series", "design", "excellent"]', '[35, 36, 45, 48, 49, 52, "pos", "Meizu", "small window experience", "first - class"]', '[61, 62, 56, 58, 59, 60, "neg", "Huawei", "video experience", "better"]', '[35, 36, 108, 110, 111, 115, "neg", "Meizu", "actual experience", "not as good as"]'}
+==================================
+doc_id 0521
+One plus old model is really hard to say [ doge ]
+I plan to buy 9Pro , what suggestions ?
+Suggestion is not to buy
+Then I 'll take more look ,
+One plus 5 took advantage of the promotion 9.9 to change a battery , 9.08 system , really smooth . .
+What promotion ! I really want to know . .I want to change battery , too
+The special event in July , at that time , it was a special price to repair the screen and replace the battery ~ You can call the local after - sales service to ask , maybe there is an event now , I remember that I also caught up with the event when I changed the screen for the first time .
+One plus 5 t should be able to fight for another year
+You go to use the 7 series hydrogen OS11 , you will know
+My one plus 7 has been used for 2 years and it still feels very smooth , except for the battery life is bad
+==================================
+doc_id 0531
+Huawei nova7s e and Honor 30s , which one is better ?
+Mine is 7se , I feel this is good to use , has strong functionality , it does n't get stuck when playing games or anything , and it 's easy to use the vpn
+Is it a curved screen ?
+flat
+The same LCD screen , 7 se screen effect is better than the Honor . .
+I am so tangled [ poor ] [ poor ] [ poor ] [ poor ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[59, 61, 61, 62, 64, 65, "pos", "7 se", "screen", "better"]', '[67, 68, 61, 62, 64, 65, "neg", "Honor", "screen", "better"]'}
+in both {'[59, 61, 61, 63, 64, 65, "pos", "7 se", "screen effect", "better"]', '[67, 68, 61, 63, 64, 65, "neg", "Honor", "screen effect", "better"]', '[14, 15, 34, 36, 29, 33, "pos", "7se", "playing games", "does n\'t get stuck"]', '[14, 15, 26, 27, 25, 26, "pos", "7se", "functionality", "strong"]'}
+==================================
+doc_id 0541
+I do n't think Apple is good to use . When play games the phone is too hot , and when there is no wireless network , the network will be disconnected after receiving a text message . It 's annoying . Btw mine is iphone 11 now
+Are you in countryside without internet access ? I have use my iPhone X for two and a half years . It 's not as bad as you said . Disconnect from the Internet after a text message ? Funny
+Hehe , I 'm in Nanjing now , and the Apple 11 signal sucks , and I tell you , do n't discriminate against geographical areas , said there is no Internet access in the countryside ? What do you mean ? Use an apple to get a sense of superiority ?
+tsk tsk , continue to make up the story you just thought of
+Everyone knows that 11 use Intel baseband , and this year 12 change to Qualcomm baseband . And 11 turn on volte , then switch the secondary card signal to 3 g , the problem will be solved .
+I see
+If you open VOLTE , you wo n't lost signal when the text messages comes
+I opened it , but sometimes the signal is still not good
+==================================
+doc_id 0551
+Is n't there a bunch better than p50 ? Such as mate40Pro
+Ca n't afford it , the budget is limited ,
+When the Android phone of Dimensity 9000 comes out , such as OPPO 's , it will definitely be good . And Huawei 's flagship is really no better than Oppo 's flagship . Oppo 's flagship machine has good quality control and texture . But it is very cheap , much cheaper than Huawei .
+Okay , thank you brother [ Ultraman ]
+no stock
+Schrodinger 's Kirin 9000
+Honestly , I personally think the appearance of the mate series is much better than the p series .
+I also think [ Yun Bei ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[7, 8, 3, 5, 5, 6, "neg", "p50", "a bunch", "better"]', '[11, 12, 3, 5, 5, 6, "neg", "mate40Pro", "a bunch", "better"]'}
+in both {'[101, 103, 98, 99, 104, 106, "pos", "mate series", "appearance", "much better"]', '[108, 110, 98, 99, 104, 106, "neg", "p series", "appearance", "much better"]'}
+==================================
+doc_id 0561
+My grandfather used Changxiang [ tears ] [ tears ] [ tears ] My grandfather was crazy about it , and felt that Changxiang was better than my Xiaomi digital series [ tears ] I felt it is too slow , I do n't know why he did n't feel stuck [ tears ] ]
+Chang Shenteng : In fact , Huawei 's mobile phones are indeed much more stable than Xiaomi 's
+So easy too say this , right?[calling ]
+It turns out that you use Xiaomi , then it 's okay
+Chang Shenteng : Changxiang 's configuration is poor , but Huawei 's system is indeed relatively stable . And he has never used a smoother one , so he definitely wo n't feel stuck .
+It 's really laggy
+It 's really bad . My dad just said that Huawei 's system is stable . In a blink of an eye , there is a call , but the answering interface does not show [ doge ]
+Chang Shenteng : Does your grandfather only know how to make phone calls and send WeChat ? He has absolutely no idea about the word " fluent " and does n't care .
+It was bought by offline because he was cheated . After I know it , I never buy Huawei Honor ....
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[96, 97, 98, 99, 100, 101, "pos", "Changxiang", "configuration", "poor"]'}
+[pred_test_en_no_mask_0525.json] {'[96, 97, 98, 99, 100, 101, "neg", "Changxiang", "configuration", "poor"]'}
+in both set()
+==================================
+doc_id 0571
+I feel like I have a hunch that I will use it for a full year ...
+After watching your 5 - minute long test , I bought the p40pro . It 's really good [ hee hee ] . Taking photo is stable and the workmanship is excellent . 90hz is well optimized .
+The difference between 5 months and 5 minutes is still quite a lot [ Yun Sad ]
+Forgot the video is how many minutes , I watched it on Bilibili [ hee hee ]
+Why is P40Pro and not mate40Pro ? Meizu 18 is just a backup machine , what about the main machine ?
+The mate40p feels too bad , not suitable for holding it all the time , but it has full functions and is more suitable for the main machine in life
+So the tester was using the mate40Pro mainly , and P40Pro for backup machine before ?
+I just decided to buy the p40pro based on your test [ doge ]
+==================================
+doc_id 0581
+Does the 12 series have civi - level feel and long battery life products ?
+civi is a real success ! There is nobody who not to love after seeing the real machine ! [ awesome ]
+Mr. Lei has been using this for a long time [ dirty ]
+It feels so good ! I just want a machine with civi appearance + 870 - level chip !
+With the feel of the civi , it is basically civi 's battery life is the best . . . I 'm using a 7 series processor .
+Looking forward to a long battery life civi level . It would be great to improve the camera
+Improving the camera will also increase the weight [ allow sad ] This feeling is full of various compromises , otherwise it will not be scolded that Xiaomi also sells stupid tax machines
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[15, 16, 51, 52, 52, 54, "pos", "civi", "feels", "so good"]', '[104, 105, 102, 104, 101, 102, "pos", "civi", "battery life", "long"]'}
+[pred_test_en_no_mask_0525.json] {'[2, 4, 8, 9, 5, 8, "pos", "12 series", "feel", "civi - level"]'}
+in both {'[79, 80, 81, 83, 85, 86, "pos", "civi", "battery life", "best"]', '[2, 4, 11, 13, 10, 11, "pos", "12 series", "battery life", "long"]'}
+==================================
+doc_id 0591
+The peak of Honor photography should be 20pro , and the latter are more general
+It 's 30Pro+ , Okay
+Honor 30Pro+ battery life is not good
+The battery life is indeed bad , my battery is 88 already [ DOGE ]
+V30Pro ?
+It should be 30pro+ , imx700 ( without anti - shake ) periscope
+My 20Pro ca n't be not good
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[3, 4, 4, 5, 1, 2, "pos", "Honor", "photography", "peak"]', '[3, 4, 4, 5, 13, 15, "pos", "Honor", "photography", "more general"]', '[20, 22, 28, 30, 31, 33, "neg", "Honor 30Pro+", "battery life", "indeed bad"]', '[7, 8, 4, 5, 13, 15, "pos", "20pro", "photography", "more general"]'}
+[pred_test_en_no_mask_0525.json] {'[3, 4, 4, 5, 1, 2, "neg", "Honor", "photography", "peak"]', '[20, 22, 28, 30, 32, 33, "neg", "Honor 30Pro+", "battery life", "bad"]'}
+in both {'[7, 8, 4, 5, 1, 2, "pos", "20pro", "photography", "peak"]', '[20, 22, 22, 24, 25, 27, "neg", "Honor 30Pro+", "battery life", "not good"]'}
+==================================
+doc_id 0601
+My needs : The price is about 1000 - 2200 , and then direct screen , 4 G can be used , I do n't play games , need big memory , and higher cost performance . The photos are average , and the music is average . Which mobile phone is better ? The current idea is iqooz5 , iqooneo5 , redmi k40 , because I use vivoX20 now , and I have used it for four years , the screen has not broken , I want a drop resistant one
+If you do n't play games , I recommend you to buy z5 . It is the cheapest and has excellent battery life , but I have n't seen a drop - resistant mobile phone . you ] The memory specification can choose 12 + 256 , the processor Qualcomm Snapdragon 778 g is enough for daily use [ love you ]
+How about the 778 processor , I originally wanted to wait for the price of the Vitality version 12 + 256 g to drop , but only the small memory was reduced in price [ allow sad][allow sad ]
+It 's enough , and it 's smooth for more than two years if you do n't play games . Might not be enough if you play the game
+If you want resistant to falling , vivo mobile phones are generally durable . The z5 has good battery life , the neo5 has good camera performance , and the Redmi K40 has good performance . Your needs are not high . You can consider the Z 5 mentioned by the person above . I will send you a brief review of the Z5 in a while .
+I 'm here to disturb you again . I 'm currently torning between neo5se and neo5 vitality version , which one is the most cost - effective ? I want a straight lcd screen , just choose one of these that is better for taking pictures [ dirty][dirty ]
+For LCD screen , the vitality version is more cost - effective than se . The difference : se charges fast , no nfc ; vitality version has nfc
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[344, 346, 340, 342, 347, 351, "pos", "vitality version", "LCD screen", "more cost - effective"]', '[68, 69, 81, 82, 83, 85, "neg", "vivoX20", "screen", "not broken"]', '[244, 245, 247, 249, 246, 247, "pos", "neo5", "camera performance", "good"]', '[352, 353, 340, 342, 347, 351, "pos", "se", "LCD screen", "more cost - effective"]'}
+[pred_test_en_no_mask_0525.json] {'[68, 69, 81, 82, 83, 85, "pos", "vivoX20", "screen", "not broken"]', '[104, 105, 140, 141, 146, 147, "pos", "z5", "processor", "enough"]'}
+in both {'[104, 105, 113, 115, 112, 113, "pos", "z5", "battery life", "excellent"]', '[303, 304, 334, 336, 332, 333, "pos", "neo5se", "taking pictures", "better"]', '[237, 238, 240, 242, 239, 240, "pos", "z5", "battery life", "good"]', '[252, 254, 256, 257, 255, 256, "pos", "Redmi K40", "performance", "good"]', '[305, 308, 334, 336, 332, 333, "pos", "neo5 vitality version", "taking pictures", "better"]'}
+==================================
+doc_id 0611
+I use 11 pm played two round of Game For Peace ( Ultimate + Smooth ) with my brother mi10u , I used 20 % of the battery , he used 24[doge ]
+[ Allow sad ] [ Allow sad ] You have at least more than 3000 mA , 2000 really crying
+Dear , mine is more than 3900 , almost 4000 . The battery life is really better than my previous one plus 7 pro [ laughs without speaking ]
+The battery life brought by the Apple pm brick is really good , but the Mi 10 super cup has a high refresh rate , and it is still stronger than the pm when this power consumption thing is turned off .
+mi10u should be turned on smooth +90 , it is normal to consume more power than the limit
+Anyway , the Xiaomi Mi 10 Extreme Commemorative Edition is very power - hungry . It takes just more than 3 hours playing games to out of power , but I have to admit that the charging is also awesome , and it will return to full blood in only more than 20 minutes [ allow sad ]
+The Extreme Commemorative Edition will definitely consume power fast if you play games at 120hz !
+How much healthy is your battery
+Definitely 100
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[201, 204, 206, 208, 208, 209, "neg", "Extreme Commemorative Edition", "consume power", "fast"]', '[88, 90, 83, 85, 93, 94, "pos", "Apple pm", "battery life", "good"]', '[146, 151, 178, 179, 181, 182, "pos", "Mi 10 Extreme Commemorative Edition", "charging", "awesome"]'}
+[pred_test_en_no_mask_0525.json] {'[97, 101, 103, 106, 111, 112, "pos", "Mi 10 super cup", "high refresh rate", "stronger"]', '[88, 90, 90, 91, 93, 94, "pos", "Apple pm", "brick", "good"]'}
+in both {'[73, 77, 65, 67, 69, 70, "neg", "one plus 7 pro", "battery life", "better"]'}
+==================================
+doc_id 0621
+I miss the gn1 on iQOO5 , the most powerful series of iQOO photography
+What , is gn5 a negative upgrade ? [ halo ]
+Ca n't just look at the size of the numbers [ doge ] gn5 is similar to 766 . gn1 and gn2 are the big bottoms
+Tell a joke , gn1 is bigger than 2 's aperture [ allow sad ]
+Why is there no cell phone use it now ?
+Last year there were 766 super wide - angle , but this year all jn1 , why , of course for saving money [ doge ]
+Indeed , the screen has been upgraded , but other places have declined
+My iqoo5 is still in use
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[55, 56, 61, 62, 57, 58, "pos", "gn1", "aperture", "bigger"]'}
+in both {'[12, 13, 13, 14, 8, 10, "pos", "iQOO", "photography", "most powerful"]'}
+==================================
+doc_id 0631
+The quality of Xiaomi Mi 9 is too bad . After using it for 3 years , I found that the battery loses power very quickly .
+I 'm dying of laughter , which mobile phone 's battery will not be bad after three years use ? You 're not using your phone the right way , does not change the battery but blame the phone ?
+From 70 % directly drop to 1 % , is this normal ?
+You 've been using it for three years , is n't it normal ? And it 's winter , Apple like that too ?
+3 years , this is already very good , have you used Apple for three years ? Three years directly ca n't use without a power bank
+You have suffered before
+Big brother , this phone has n't been released for 3 years
+It 's almost
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[3, 6, 21, 22, 22, 26, "neg", "Xiaomi Mi 9", "battery", "loses power very quickly"]', '[116, 117, 129, 131, 124, 127, "neg", "Apple", "power bank", "ca n\'t use"]', '[3, 6, 21, 22, 24, 26, "neg", "Xiaomi Mi 9", "battery", "very quickly"]'}
+[pred_test_en_no_mask_0525.json] {'[3, 6, 21, 22, 24, 26, "pos", "Xiaomi Mi 9", "battery", "very quickly"]'}
+in both {'[3, 6, 1, 2, 7, 9, "neg", "Xiaomi Mi 9", "quality", "too bad"]'}
+==================================
+doc_id 0641
+Holding the vivo in my hand feels very smooth to use . The battery life of the mobile phone is very good , and the game is also very smooth . The camera is also very good regardless of the front and rear , and it is not particularly hot . Small settings such as application split screen are also very good
+I want to say that my oppo ... is very anti - broken [ allow sadness ] [ allow sadness ] [ allow sadness ] my last mobile phone 's record is be dropped five or six times in three consecutive days , and there is no problem with the mobile phone ...
+. vivo was also anti - broken . I almost fell every or twice a day , and my previous vivo even fell out of the electric board . It was still used as usual . The previous vivo mobile phone dropped the water , after drying , it is still used as usual . That mobile phone has a small memory , it has never been stuck . The response is slower , the startup is slower , but it will not be stuck . I feel that vivo and oppo , although it may be said that the cost performance is not high , at least it is very comfortable to use .
+My vivo has been dropped countless times and has been in the water countless times , but it is not broken , mmp I want to replace it with a new one
+My vivo battery life is very poor . [ Tears ]
+It 's best to use the original charger , and then do n't play with the phone while charging . I usually turn on the airplane mode when charging . I used the phone for two or three years before and now I can watch videos with it continuously for half a day .
+My original vivo is just the opposite of what you said
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[206, 207, 215, 217, 218, 220, "neg", "oppo", "cost performance", "not high"]', '[204, 205, 215, 217, 218, 220, "neg", "vivo", "cost performance", "not high"]', '[153, 154, 190, 191, 192, 193, "neg", "vivo", "startup", "slower"]', '[153, 154, 185, 186, 187, 188, "neg", "vivo", "response", "slower"]'}
+[pred_test_en_no_mask_0525.json] {'[204, 205, 215, 217, 218, 220, "other", "vivo", "cost performance", "not high"]', '[206, 207, 215, 217, 218, 220, "other", "oppo", "cost performance", "not high"]'}
+in both {'[263, 264, 264, 266, 267, 269, "neg", "vivo", "battery life", "very poor"]', '[2, 3, 13, 15, 20, 22, "pos", "vivo", "battery life", "very good"]', '[2, 3, 57, 58, 60, 62, "pos", "vivo", "screen", "very good"]'}
+==================================
+doc_id 0651
+OnePR 9Pro ?
+The battery life is not good , plus the overheat [ eat melon ]
+Have you used it ?
+Holding the OnePlus 9P , the heat is really hot , and the power consumption is also very large , especially after updating the 12 system
+The battery life of the x3 is OK , and it 's not too hot .
+One plus has become an abandoned ship , it is better to buy the findx3 series ,
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[53, 54, 49, 51, 60, 63, "pos", "x3", "battery life", "not too hot"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[24, 26, 35, 37, 39, 41, "neg", "OnePlus 9P", "power consumption", "very large"]', '[0, 2, 4, 6, 7, 9, "neg", "OnePR 9Pro", "battery life", "not good"]', '[24, 26, 28, 29, 31, 32, "neg", "OnePlus 9P", "heat", "hot"]'}
+==================================
+doc_id 0661
+It 's just that it took too long to forget the shortcomings . In all fairness , there is nothing outstanding about the Mi 6 . It is a moderate and cheap product . At that time , the screen was average , the workmanship was poor , that famous event the gap insert paper , and the appearance was also complained about that year , and so was the mate20p , forget the design was praised later , the screen is very strange , the green screen door , the 2k boe looks very bad . In fact , not only the mobile phone , extends to many things , in my opinion , some of them are the gods under the bad competition , and the memory filter is beautifying
+I have never felt that the Mi 6 is a perfect machine , but too many people have no money to change it .
+No , it 's just that the 845 generation is all garbage
+The mate20pro was enshrine because of its advanced design and no obvious shortcomings . The green screen could be exchanged at that time .
+At that time , compared with Android except Samsung , other domestic flagships , there was really no one that could fight . Samsung 's note8 at that time did not have much advantage even in terms of hardware , and was in a state of squeezing toothpaste .
+How many years have you used Mi 6 ? My Mi 6 has been used for four years until October 11 , 2021 . Generally speaking , at that time and taht price , Mi 6 was undoubtedly invincible . I have used it for nearly four years , and now I feel the biggest problem is that the battery is a bit small , otherwise it 's fine . As for a generation of perrfect machines , it is judged by users . Only the products that users say are good products are good products .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[275, 277, 270, 271, 278, 280, "pos", "Mi 6", "time", "undoubtedly invincible"]', '[275, 277, 273, 274, 278, 280, "pos", "Mi 6", "price", "undoubtedly invincible"]', '[275, 277, 300, 301, 302, 305, "neg", "Mi 6", "battery", "a bit small"]'}
+[pred_test_en_no_mask_0525.json] {'[70, 71, 74, 75, 76, 78, "neg", "mate20p", "design", "praised later"]', '[23, 25, 58, 59, 61, 62, "pos", "Mi 6", "appearance", "complained"]', '[247, 249, 300, 301, 302, 305, "neg", "Mi 6", "battery", "a bit small"]', '[251, 253, 300, 301, 302, 305, "neg", "Mi 6", "battery", "a bit small"]', '[275, 277, 273, 274, 278, 280, "neg", "Mi 6", "price", "undoubtedly invincible"]'}
+in both {'[70, 71, 80, 81, 82, 84, "neg", "mate20p", "screen", "very strange"]', '[23, 25, 44, 45, 46, 47, "neg", "Mi 6", "workmanship", "poor"]', '[217, 218, 230, 231, 222, 226, "neg", "note8", "hardware", "not have much advantage"]', '[23, 25, 39, 40, 41, 42, "neg", "Mi 6", "screen", "average"]'}
+==================================
+doc_id 0671
+He said 13 is the most rubbish , I represent 11 and express serious dissatisfaction [ two ha ]
+11 The last LCD screen is not bad , the signal and battery are not good , everything else is good
+Signal , battery , wide - angle lens , fake background ( refreshing WeChat messages and playing games to switch backgrounds are really tortured ) [ smile ]
+Do n't upgrade the system
+[ doge ] I am also using 11 , just so - so
+The screen of the 11 is really nothing to say [ single dog ] [ single dog ] and the battery is also the fastest damaged among the iPhone s I used [ halo ] after two years of use , the more I use it , the more my heart is stuck , and taking pictures also makes me uncomfortable
+I originally wanted to change to 13p this year . But I think I still can wait . I will go to the direct sales store to replace the battery at the end of the year and I think it is able to fight again . It have no problem with performance now , and the power consumption is really fast .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[19, 20, 22, 24, 25, 27, "pos", "11", "LCD screen", "not bad"]', '[90, 91, 106, 107, 110, 112, "neg", "11", "battery", "fastest damaged"]', '[90, 91, 87, 88, 93, 96, "neg", "11", "screen", "nothing to say"]', '[153, 154, 203, 205, 207, 208, "neg", "13p", "power consumption", "fast"]'}
+[pred_test_en_no_mask_0525.json] {'[90, 91, 87, 88, 93, 96, "pos", "11", "screen", "nothing to say"]', '[19, 20, 44, 48, 49, 51, "neg", "11", "wide - angle lens", "fake background"]', '[153, 154, 203, 205, 207, 208, "pos", "13p", "power consumption", "fast"]', '[19, 20, 42, 43, 49, 51, "neg", "11", "battery", "fake background"]', '[19, 20, 40, 41, 49, 51, "neg", "11", "Signal", "fake background"]', '[19, 20, 21, 24, 25, 27, "pos", "11", "last LCD screen", "not bad"]'}
+in both {'[19, 20, 31, 32, 33, 35, "neg", "11", "battery", "not good"]', '[114, 115, 106, 107, 110, 112, "neg", "iPhone", "battery", "fastest damaged"]', '[19, 20, 29, 30, 33, 35, "neg", "11", "signal", "not good"]', '[153, 154, 198, 199, 195, 197, "pos", "13p", "performance", "no problem"]'}
+==================================
+doc_id 0681
+Any digital channel tells you not to buy a OnePlus and it will make you unfortunate . Why are there always people who do n't listen to advice ?
+OnePlus has a better texture than Xiaomi , but do n't buy it for the first time , the price reduction is too fast
+Xiaomi texture is also up
+Hope it is getting better and better
+I had a good experience with one plus 6 before , if it was n't for fast charging , I would bought one plus 8 pro
+Is n't every mobile phone recommended by digital bloggers ? Otherwise , how can they be sponsored [ doge ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[35, 36, 33, 34, 32, 33, "pos", "Xiaomi", "texture", "better"]'}
+[pred_test_en_no_mask_0525.json] {'[35, 36, 33, 34, 32, 33, "neg", "Xiaomi", "texture", "better"]'}
+in both {'[53, 54, 54, 55, 57, 58, "pos", "Xiaomi", "texture", "up"]', '[71, 74, 69, 70, 68, 69, "pos", "one plus 6", "experience", "good"]', '[29, 30, 48, 49, 51, 53, "neg", "OnePlus", "price", "too fast"]', '[29, 30, 33, 34, 32, 33, "pos", "OnePlus", "texture", "better"]'}
+==================================
+doc_id 0691
+Taking pictures sucks [ Yun Bei ]
+100 million pixel super wide - angle may have , about others you can guess [ laugh cry ]
+But it 's useless , software optimization sucks
+Optimization is Xiaomi 's weakness [ allow sadness][allow sadness][allow sadness ]
+Do n't ask for too much at this price .
+It can only be like this ! I heard that taking pictures is bad before , but I did n't expect it to be so bad ! [ Yun sad ]
+The price of neo5 is 500 more expensive than k40 , and it is normal to take better pictures . Too poor that can only buy this kind of cost - effective machine [ doge ]
+With all due respect , is there any phone with a good camera that costs about 2,000 yuan ? [ doge ]
+Friends business neo5 has a good reputation
+Xiaomi 11 beats it [ doge ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[95, 96, 87, 88, 93, 94, "pos", "k40", "price", "expensive"]', '[89, 90, 87, 88, 93, 94, "pos", "neo5", "price", "expensive"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[89, 90, 104, 105, 103, 104, "pos", "neo5", "pictures", "better"]', '[146, 147, 150, 151, 149, 150, "pos", "neo5", "reputation", "good"]', '[36, 37, 34, 35, 38, 39, "neg", "Xiaomi", "Optimization", "weakness"]'}
+==================================
+doc_id 0701
+What do you mean ? What you said as if Mi fans are offbeat , what 's wrong with them knowing cell phones ? What 's wrong with them being a little smarter than others ?
+They are not the same consumer group . Huawei 's philosophy for consumers is that they have a long service cycle , fewer problems , and peace of mind . Xiaomi 's philosophy is to repair the WiFi when it burns , and replace the battery when it fails . Mi fans like to toss , and the more toss , the more they understand the phone . However , in the eyes of consumers who do not understand mobile phones , these problems are the performance of bad mobile phone .
+Hahahaha , mixed use of flash memory , no oleophobic layer , green screen , our Huawei usage cycle is really too long !
+It has long been mixed , and now it is the originator .
+It 's not that Huawei ca n't peak charging . Is it difficult for Huawei ? Their strategy is to increase the charging speed as much as possible under the premise of prioritizing the protection of battery life . And Xiaomi 's strategy is that the charging speed is more important than the service life of the battery , it is cheaper to replace the battery anyway .
+Do n't solicit troll , the charging speed does not affect the battery life , and what impact the battery life is charging when heating . I used this P40P for a year . I never played the game and the battery was also not good . The power dropped quickly . The charging speed at 40W was the same as the 22.5W speed . According to you , I have no experience to protect the battery nor the fast charging . What did I enjoy ?
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[66, 67, 81, 82, 84, 85, "neg", "Xiaomi", "battery", "fails"]', '[205, 206, 228, 231, 226, 227, "pos", "Xiaomi", "replace the battery", "cheaper"]', '[169, 170, 173, 174, 170, 173, "neg", "Huawei", "charging", "ca n\'t peak"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[262, 263, 274, 275, 277, 279, "neg", "P40P", "battery", "not good"]', '[144, 145, 145, 147, 149, 151, "neg", "Huawei", "usage cycle", "too long"]'}
+==================================
+doc_id 0711
+The difference of the battery life between the 13 Pro and 13 Pro Max is that big ?
+Really , there 's no need to lie to you [ Erha ] , the 13Pro 's battery life is not good , I do n't know why everyone said it 's good , anyway , I really do n't feel that , at least charge it twice a day , some people only work , do n't play their phone , maybe a day once is enough [ two ha ]
+Ah [ Yunbei ] I was planning to buy a Pro .
+My Pro changed to ProMax [ two ha ] [ laugh cry ]
+It should be the 12pro .
+13p , I witnessed this bro changing his phone in the comments , [ kneeling ]
+The 13pro 's battery life is not as good as the 13 's , and the battery is one or two hundred mAh smaller
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[11, 14, 4, 6, 16, 17, "pos", "13 Pro Max", "battery life", "big"]', '[138, 139, 153, 154, 158, 161, "neg", "13pro", "battery", "hundred mAh smaller"]'}
+[pred_test_en_no_mask_0525.json] {'[8, 10, 4, 6, 16, 17, "other", "13 Pro", "battery life", "big"]', '[11, 14, 4, 6, 16, 17, "other", "13 Pro Max", "battery life", "big"]'}
+in both {'[138, 139, 140, 142, 143, 147, "neg", "13pro", "battery life", "not as good as"]', '[33, 34, 35, 37, 38, 40, "neg", "13Pro", "battery life", "not good"]', '[148, 149, 140, 142, 143, 147, "pos", "13", "battery life", "not as good as"]'}
+==================================
+doc_id 0721
+A little bit worse for taking pictures
+Is the battery life of the Exploration Edition power consumption fast ?
+The battery life of the NEO2 should be better
+[ Praise ] [ Like ] [ Hug ]
+It 's okay
+X60 , iqooneo5 , Meizu 17Pro , Xiaomi Mi 10s , taking pictures are all okay !
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[44, 46, 51, 53, 55, 56, "pos", "Meizu 17Pro", "taking pictures", "okay"]', '[13, 15, 9, 11, 17, 18, "neg", "Exploration Edition", "battery life", "fast"]', '[47, 50, 51, 53, 55, 56, "pos", "Xiaomi Mi 10s", "taking pictures", "okay"]', '[40, 41, 51, 53, 55, 56, "pos", "X60", "taking pictures", "okay"]', '[42, 43, 51, 53, 55, 56, "pos", "iqooneo5", "taking pictures", "okay"]'}
+[pred_test_en_no_mask_0525.json] {'[13, 15, 15, 17, 39, 40, "pos", "Exploration Edition", "power consumption", "okay"]', '[13, 15, 15, 17, 17, 18, "other", "Exploration Edition", "power consumption", "fast"]', '[13, 15, 9, 11, 39, 40, "pos", "Exploration Edition", "battery life", "okay"]'}
+in both {'[24, 25, 20, 22, 27, 28, "pos", "NEO2", "battery life", "better"]'}
+==================================
+doc_id 0731
+I knew earlier that it is still Xiaomi 10s p[doge]q
+10U is yes
+It 's heavy and thick and the screen does n't feel slender enough [ allow sad][allow sad ]
+It seems that few of the current top flagship machines are light [ two ha ]
+What does the emoticon mean ? 😅
+The yyds in the headphone industry , make the chicken teacher have no food to eat [ doge ] 's Yuandao headphones 9.9 free shipping ( in fact , I bought 4.9 ) [ laugh haha ]
+10s , civi and honor 60 , which one is better
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[7, 10, 20, 21, 21, 25, "pos", "Xiaomi 10s p[doge]q", "screen", "does n\'t feel slender"]', '[10, 11, 20, 21, 21, 25, "pos", "10U", "screen", "does n\'t feel slender"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both set()
+==================================
+doc_id 0741
+To be honest , the Xiaomi battery is too like chicken ribs , the machine is hot , the price is okay . I will always spurn Huawei for being flashy and doing whatever they want .
+Is this why you dare not show your model ?
+Where do you find I do n't dare to show my model ? It 's like if you dare to show your model , then your worldview is not deformed [ allow sad ]
+Monkey likes to evaluate by model . It turns out to be a Mi 10 user with a rubbish blind screen .
+Xiaomi is good everywhere , the configuration is high and the price is kind , but the battery life is too poor [ allow sad ]
+I do n't know where the battery life is poor ...
+My 11U is charged twice a day , and the battery life of all mobile phones is not very good , except the iphone 13P M
+Scolded two at once [ meow meow ]
+Do n't hold back when it 's time to scold , you ca n't be merciful
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[94, 96, 101, 102, 99, 100, "neg", "Mi 10", "screen", "rubbish"]', '[5, 6, 6, 7, 8, 12, "pos", "Xiaomi", "battery", "too like chicken ribs"]', '[94, 96, 101, 102, 99, 101, "neg", "Mi 10", "screen", "rubbish blind"]', '[5, 6, 135, 137, 138, 139, "neg", "Xiaomi", "battery life", "poor"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[5, 6, 19, 20, 21, 22, "pos", "Xiaomi", "price", "okay"]', '[103, 104, 114, 115, 116, 117, "pos", "Xiaomi", "price", "kind"]', '[103, 104, 109, 110, 111, 112, "pos", "Xiaomi", "configuration", "high"]', '[141, 142, 150, 152, 157, 160, "neg", "11U", "battery life", "not very good"]', '[103, 104, 120, 122, 123, 125, "neg", "Xiaomi", "battery life", "too poor"]', '[103, 104, 135, 137, 138, 139, "neg", "Xiaomi", "battery life", "poor"]'}
+==================================
+doc_id 0751
+If let me say , if nothing else happens , the Honor should be the fastest charging , taking pictures should be ok , and the heat dissipation should be the best . After all , the 7 nm chip plus the water cooling tube released by Honor some time ago will definitely be used for this . The price is estimated to be over 4000
+But ... but the 980 is fortunately not able to still need to be worried , not to mention gt , ct , gimmicks , short - term high - frequency operation improves performance regardless of heat and battery life
+Do n't talk nonsense without experience , gt is really strong
+I 've experienced it , it 's really not good
+There is no doubt , the p20pro is already more than 4000 , and the 980 is used , how can it not exceed 4000 ?
+The charging is not as fast as the supercharged version of the fx , and the screen is less curved than the fx . Taking pictures and heat dissipation totally beat fx . The price must be over 4000 , the magic generation was 3699 at that time
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[11, 12, 154, 155, 156, 160, "neg", "Honor", "charging", "not as fast as"]'}
+[pred_test_en_no_mask_0525.json] {'[161, 166, 154, 155, 156, 160, "pos", "supercharged version of the fx", "charging", "not as fast as"]'}
+in both {'[11, 12, 16, 17, 15, 16, "pos", "Honor", "charging", "fastest"]', '[11, 12, 26, 28, 31, 32, "pos", "Honor", "heat dissipation", "best"]', '[11, 12, 18, 20, 22, 23, "pos", "Honor", "taking pictures", "ok"]'}
+==================================
+doc_id 0761
+[ Applause ] Basically , most of them agree , but about the Honor 50 is the ugliest , I have some reservations . After all , the photos and videos are very good ! ! !
+Why did you change this kind of profile photo ? [ Yunbei ]
+[ Chunyou Family ] [ School Season ] Little Fat Pig 1 look can know I use the transparent mi9 hahaha ! !
+You deserve to have[Doge ]
+Ugly means appearance [ sweat ]
+Mi 's best high - end really does n't deserve it , and iqoo 's best design is really ugly
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[84, 85, 87, 90, 91, 94, "pos", "Mi", "high - end", "does n\'t deserve"]', '[13, 15, 80, 81, 78, 80, "neg", "Honor 50", "appearance", "Ugly means"]', '[97, 98, 100, 101, 103, 104, "neg", "iqoo", "design", "ugly"]'}
+[pred_test_en_no_mask_0525.json] {'[97, 98, 100, 101, 103, 104, "pos", "iqoo", "design", "ugly"]'}
+in both {'[13, 15, 28, 29, 32, 34, "pos", "Honor 50", "photos", "very good"]', '[13, 15, 30, 31, 32, 34, "pos", "Honor 50", "videos", "very good"]'}
+==================================
+doc_id 0771
+It 's not that I do n't care , it 's that I ca n't do anything about it . I want to buy Apple but I 'm reluctant to buy xs , I can only put up with it . Most are like this . I really ca n't accept the big border [ Khan ]
+But the battery life and lcd screen are really comfortable , come from X
+The screen seems that lcd is more comfortable to look at
+After watching the OLED screen for a long time , the eyes are tired and sore . Especially in the case of low brightness . there is no eye problem with the LCD screen before . After changing to the iPhone X , my eyesight has deteriorated a lot . Now using xr back , my eyes is comfortable again
+And the battery , really , you 'll break down more after a while
+After the X series , I do n't use it anymore , so I do n't know how 's the battery [ laughing ] When I wanted to change my phone , the Apple really has a high price and low configuration . The xs dares to sell 8,000 , and they really treat us as fools [ Yunbei ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[31, 32, 52, 54, 48, 51, "neg", "xs", "big border", "ca n\'t accept"]', '[31, 32, 53, 54, 48, 51, "neg", "xs", "border", "ca n\'t accept"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[31, 32, 59, 61, 66, 67, "pos", "xs", "battery life", "comfortable"]', '[31, 32, 62, 64, 66, 67, "pos", "xs", "lcd screen", "comfortable"]'}
+==================================
+doc_id 0781
+These two lenses are really useful , I have personally tested them on the Mi 10Ultra [ good ]
+I want to get a second - hand of your mobile phone for taking pictures . I feel that taking pictures is better than 11u .
+The brand new ones are almost extinct , they have been discontinued for a long time [ Sweat ]
+I do n't want a brand new [ Yunbei ] , the second - hand 2500 is pretty ok
+It seems to be back to Xiaomi 10 Ultra [ Spring Tour Family ]
+Is this 5x?[School season ]
+It seems to be shot at 3 times , and the advantage of telephoto is reflected at this time [ laughs without saying a word ]
+TMD My 11ULTRA even ca n't shoot such one [ Yun Bei ] real awesome
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[14, 16, 2, 3, 5, 6, "pos", "Mi 10Ultra", "lenses", "useful"]'}
+[pred_test_en_no_mask_0525.json] {'[99, 100, 115, 116, 117, 118, "neg", "5x?[School", "telephoto", "reflected"]'}
+in both {'[43, 44, 38, 40, 41, 42, "neg", "11u", "taking pictures", "better"]'}
+==================================
+doc_id 0791
+Looking at it this way , is Xiaomi really cost - effective ? ?
+The real price / performance ratio means that I am cheaper than you for the same hardware , software , optimization , product quality and experience . But Mi 's cost performance is just high hardware , no matter how difficult the system is to use , how many bugs , how bad the quality control is , it 's just a sentence : I stock material fiercely , I have high cost performance [ laugh cry ]
+[ eat melon ] Can the miui of five years ago also be labeled as difficult to use and have many bugs , then what is the domestic UI of the same period , All 💩 except flyme ? Good for you
+If you see my classmate Xiaomi Mi 11 burning WIFI and burning the motherboard , watching the video screen blurred , you will not say that Xiaomi is cost - effective .
+The 960 's target is the 835 . Xiaobai likes to lead the topic trends . He chose the 821 to deliberately make you arguing for clout . The previous flagship two years ago also compared the 990 to the 855 . Is n't the 865 beating the 990 in all directions ? Deliberately choose a previous generation to compare
+865 ca n't beat 990
+I still have data from last year . It 's not something that you can deny .
+My Xiaomi Mi 6 is used from 2017 to 2022 , except that the inner screen will blur when it is cold , and the power will be dropped quickly , everything else is OK .
+I 'm also Mi 6 , and it can still play chicken dinner[haha ]
+Xiaomi Mi 6 can not only play chicken dinner , but also play the glory of the king , play lol , several mainstream games are all can be played , but the battery ca n't be replaced , I called after sales and they told me that the battery of Mi 6 was discontinued
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[299, 301, 310, 316, 325, 328, "pos", "Mi 6", "play the glory of the king", "can be played"]', '[7, 8, 32, 33, 24, 25, "pos", "Xiaomi", "software", "cheaper"]', '[299, 301, 318, 319, 325, 328, "pos", "Mi 6", "lol", "can be played"]', '[7, 8, 30, 31, 24, 25, "pos", "Xiaomi", "hardware", "cheaper"]'}
+[pred_test_en_no_mask_0525.json] {'[7, 8, 68, 70, 65, 67, "neg", "Xiaomi", "quality control", "how bad"]', '[98, 99, 113, 114, 112, 113, "neg", "miui", "bugs", "many"]'}
+in both {'[299, 301, 331, 332, 332, 336, "neg", "Mi 6", "battery", "ca n\'t be replaced"]', '[349, 351, 347, 348, 352, 353, "neg", "Mi 6", "battery", "discontinued"]', '[249, 252, 273, 274, 276, 278, "neg", "Xiaomi Mi 6", "power", "dropped quickly"]'}
+==================================
+doc_id 0801
+Do you believe in OnePlus 's improvement ? Facts have proved that without sufficient funds and manpower , without good direction , it is difficult to become the best . Xiaomi , OnePlus , and Oppo are all like this . Only Apple , which is released once a year , is relatively perfect . Even Huawei ca n't perfectly complete a machine ( there is no new machine for two years , the old machine is well )
+Am I the only one who thinks that Huawei 's phones are not good quality ? Plus , OnePlus also releases three or four models a year . They 're just separated , so it wo n't squeeze out so much at once . Is n't Apple 's mini promix also 4 models , like a sow all of a sudden ? And Apple also has tablet and host , a series of peripheral products , Apple not only makes mobile phones , and although there is a gap with Apple , Huawei is also chasing ducks . You go and see when it was released before , add the Honor is almost 30
+Honor of this quality is not within the discussion range of online netizens , it is not worthy of
+Indeed , never trust the system optimization capabilities of small factories
+Now the small factory is left with Meizu
+This kind of assembly machine , the supplier released the chip , everyone immediately shipped and sold it , and everyone wanted to grab the first launch . Huawei used its own chips before , Apple 's own chips , and the development cycle of its own things is definitely better in its own hands
+Although Samsung 's is sometimes getting stuck , the continuity of animation and system stability are still very good , the optimization strength of the major manufacturer is quite different .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[287, 288, 297, 298, 303, 305, "pos", "Samsung", "animation", "very good"]', '[287, 288, 307, 309, 314, 316, "pos", "Samsung", "optimization strength", "quite different"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[4, 5, 6, 7, 0, 3, "pos", "OnePlus", "improvement", "Do you believe"]', '[287, 288, 299, 301, 303, 305, "pos", "Samsung", "system stability", "very good"]', '[87, 88, 93, 94, 91, 93, "neg", "Huawei", "quality", "not good"]'}
+==================================
+doc_id 0811
+The positioning of 12p seems to be quite embarrassing , I saw it is recommended to either 12 or 12 pm
+That 's for sure ... The difference between pm and p is only 800 , better battery life , better photography , bigger screen ...
+I originally wanted to buy the size of a pro , but its positioning , I feel like I have to give up weight for the camera
+Hahaha if you are interested in photography , then pm , I do n't pay attention to this aspect mainly for convenience [ hee hee ]
+Yes , I found a lot of people say this , but the PM is really too big and my hands are small . Now I 'm in a dilemma [ Yunbei ]
+Me too , the kind with small hands , I want to buy PM for the camera , but it will really be too heavy like a brick 🙉
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[29, 30, 37, 39, 36, 37, "pos", "pm", "battery life", "better"]', '[29, 30, 44, 45, 43, 44, "pos", "pm", "screen", "bigger"]', '[29, 30, 41, 42, 40, 41, "pos", "pm", "photography", "better"]'}
+[pred_test_en_no_mask_0525.json] {'[3, 4, 1, 2, 6, 9, "neg", "12p", "positioning", "be quite embarrassing"]', '[3, 4, 44, 45, 43, 44, "pos", "12p", "screen", "bigger"]'}
+in both {'[3, 4, 1, 2, 7, 9, "neg", "12p", "positioning", "quite embarrassing"]'}
+==================================
+doc_id 0821
+Pippi , how about Nubia 's battery life and photography ? Nail household is going to change his phone [ doge ]
+There is nothing to say about photography , the originator of shooting stars , you can learn about the Liqiang team in Nubia . After tens of thousands of hours of shooting in Tibet , they have an original algorithm that allows mobile phones to shoot stars .
+Just look at the phone I 'm using now , then you can know [ doge ]
+[ Hee hee hee hee hee hee ]
+The ecosystem and system will also get better and better . Backed by ZTE , the leading state - owned enterprise in the communications industry , they have begun to develop mobile phone business in recent years , and it will get better and better
+Nail households need to consider ecology when they change their mobile phones , because interconnection can not be avoided
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[4, 5, 9, 10, 2, 4, "other", "Nubia", "photography", "how about"]', '[4, 5, 6, 8, 2, 4, "other", "Nubia", "battery life", "how about"]'}
+[pred_test_en_no_mask_0525.json] {'[4, 5, 6, 8, 102, 105, "pos", "Nubia", "battery life", "better and better"]'}
+in both {'[4, 5, 96, 97, 102, 105, "pos", "Nubia", "ecosystem", "better and better"]', '[4, 5, 98, 99, 102, 105, "pos", "Nubia", "system", "better and better"]'}
+==================================
+doc_id 0831
+This is true , Huawei 's system is not very good , the operation is not very smooth
+I have never used Xiaomi , my Honor 9 is still smooth after using it for more than 2 years , but I could n't help but change it to Honor 20 when the full screen came out .
+I have a P10 , it does n't shut down for a few days when I do n't use it very much , and it freezes without much apps installed . Your Honor 9 is similar in configuration to it , and it 's probably not much better . It may also be that your standards for the smoothness of your phone are a bit low .
+I changed it a year ago . Anyway , I never got stuck when I play eating chicken . It 's been two years , and it has n't been turned off for two years .
+Huawei is not smooth ? Is the underlying optimization better than Xiaomi ? MIUI focuses on personalization . Huawei focuses on smoothness . You only need to compare the size of the system to know . Xiaomi 's system firmware is half more than Huawei ' s. A bloated system will lead to various killing backgrounds , which must be supported by hardware
+Not much else to say , Xiaomi is really famous for killing the backstage [ laugh cry][laugh cry][laugh cry ]
+Models with high RAM are fine , but with low RAM , the experience is bad .
+Yesterday morning it restarted infinitely for no reason
+I have also encountered Xiaomi restarting or crashing before , but it only happened once in a while when I first got it , and then it was just fine . The Mi 10 Extreme Edition is awesome except for its thickness , weight and camera arrangement . Borrowing the floor to say , the mobile phone , if it is easy to use , youcan use it ; if it is bad to use , then just do n't use it , and there is no need to boast or smear .
+Huawei has crashed many times , I have also encountered [ dig nose ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[196, 197, 198, 200, 201, 203, "pos", "Xiaomi", "system firmware", "half more"]', '[204, 205, 198, 200, 201, 203, "neg", "Huawei", "system firmware", "half more"]', '[171, 172, 167, 169, 169, 170, "neg", "Xiaomi", "underlying optimization", "better"]', '[229, 230, 234, 237, 232, 233, "neg", "Xiaomi", "killing the backstage", "famous"]'}
+[pred_test_en_no_mask_0525.json] {'[89, 91, 115, 116, 120, 123, "neg", "Honor 9", "smoothness", "a bit low"]', '[89, 91, 139, 142, 134, 137, "pos", "Honor 9", "play eating chicken", "never got stuck"]', '[300, 304, 313, 314, 305, 306, "pos", "Mi 10 Extreme Edition", "camera", "awesome"]'}
+in both {'[300, 304, 309, 310, 305, 306, "pos", "Mi 10 Extreme Edition", "thickness", "awesome"]', '[89, 91, 94, 95, 92, 93, "other", "Honor 9", "configuration", "similar"]', '[160, 161, 167, 169, 169, 170, "pos", "Huawei", "underlying optimization", "better"]', '[300, 304, 311, 312, 305, 306, "pos", "Mi 10 Extreme Edition", "weight", "awesome"]', '[4, 5, 13, 14, 15, 18, "neg", "Huawei", "operation", "not very smooth"]'}
+==================================
+doc_id 0841
+Borrowing this floor to ask a question , if I do n't play games at all and just want an Android phone with the best daily experience , is 8gen1 's flagship phone suitable ? Will it get hot in summer or something ?
+Do n't be afraid of expensive , Huawei is the highest ; if you are afraid of expensive , just Xiaomi 10u , 11 will get hot , um , I 'm using 11
+The price is not a big problem , do you mean the p50 pro ?
+mate40pro
+It is not recommended to buy the flagship of the Snapdragon 8 . You can consider the mate40Pro 5 G . The Huawei mall has recently release the goods . The Kirin 9000 , very competitive , and it is still very comfortable for daily use .
+The smoothness of the daily experience hw should be able to satisfy you Basically , the high refresh rate is very stable without locking the frame , ovh will lock [ doge ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[111, 114, 125, 127, 128, 130, "pos", "mate40Pro 5 G", "Kirin 9000", "very competitive"]', '[111, 114, 138, 140, 135, 137, "pos", "mate40Pro 5 G", "daily use", "very comfortable"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both set()
+==================================
+doc_id 0851
+If it is a bright screen fast charging perception is quite strong , my iqoo can hardly charge when playing games [ single dog ]
+IQOO which?[Doge ]
+This , 8Pro .
+[ Good ]
+Play games are all ca n't work , the body heats up too much , limiting the charging power
+And charging with the screen on would have reduced the power [ tears ]
+Temperature cause , it happens
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[14, 15, 19, 21, 16, 18, "pos", "iqoo", "playing games", "hardly charge"]'}
+[pred_test_en_no_mask_0525.json] {'[14, 15, 19, 21, 17, 18, "neg", "iqoo", "playing games", "charge"]'}
+in both {'[14, 15, 35, 37, 39, 42, "neg", "iqoo", "Play games", "ca n\'t work"]', '[25, 26, 35, 37, 39, 42, "neg", "IQOO", "Play games", "ca n\'t work"]'}
+==================================
+doc_id 0861
+Julong , do you still recommend last year 's 888 flagship ? In tangled is to buy Meizu 18p or wait for 19 [ allow sad ]
+Not recommended , very hot
+8gen1 does n't seem to be any better
+So I do n't recommend Qualcomm , it 's not bad to use MediaTek or Dimensity 1200
+Wait for it to come out and see , or if the new flagship is released , the old flagship will have to cut the price
+Make sense
+I 'm holding small 18 now , the feel is absolutely top , there is no one of
+Wait , Meizu camera is a bit bad
+I have already bought Meizu , do I care so much about the camera ? [ doge ] Of course , what I want is the measurements , feel , vibration , and external system [ doge ]
+==================================
+doc_id 0871
+Apple has always been a plug - in baseband , and the chips are all used to stack transistors . Can the performance be not strong ?
+But it is still hot , frequency reduction .
+The processor of the mobile phones are all hot , the performance of Apple is strong , it ca n't be denied , and the signal is poor , it also ca n't be washwhited
+I 'm not smear it , the peak performance is strong , but it 's true that it wo n't last long . Whether it 's a dual - layer motherboard issue or not , but that 's true
+A real SOC
+But the signal is poor
+The more fragrant , the better the signal [ laughing without a word ] [ laughing without a word ] [ doge ]
+But the power consumption ca n't hold [ two ha ]
+But they are optimized well ! This is the truth
+To be precise , the system is well optimized , but it ca n't withstand high temperature and frequency reduction [ dig nose ]
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[49, 50, 98, 102, 102, 105, "pos", "Apple", "dual - layer motherboard", "issue or not"]'}
+[pred_test_en_no_mask_0525.json] {'[49, 50, 37, 38, 43, 45, "neg", "Apple", "processor", "all hot"]'}
+in both {'[0, 1, 143, 145, 145, 148, "neg", "Apple", "power consumption", "ca n\'t hold"]', '[0, 1, 22, 23, 24, 26, "other", "Apple", "performance", "not strong"]', '[49, 50, 61, 62, 63, 64, "neg", "Apple", "signal", "poor"]', '[0, 1, 115, 116, 117, 118, "neg", "Apple", "signal", "poor"]'}
+==================================
+doc_id 0881
+Then there still should be more people buying pro .
+This is our loser mentality , still have no money . If you have enough money , you must buy the good one , not the most cost - effective one . It does not mean that you are a loser , but it is a loser mentality . Do n't bring yourself into it .
+The difference between Pro and Promax is only a few hundred yuan , what does it have to do with the loser mentality ? ? ? You have spent more than 9,000 yuan , do you still care about a few hundred yuan ? max is the best ? Except for the battery and screen , everything else is the same . Why do you think max is the best ? I do n't like max because it 's too heavy . I could n't stand my 7p before , so I definitely wo n't buy max .
+Do n't assume it 's about you
+The battery is too small
+Do you have any misunderstanding about too small ... Then what about the mini 's battery ?
+Mini is ca n't be used [ laughs without saying a word ]
+When 11pro and 11promax , there is also only difference between battery and screen size . Still 11promax has higher sales . . Since the first generation of max ( xsmax ) , max sales have always been higher . So this year is still the same , not surprising .
+[pred_test_en_no_mask_model_fused_top3_rules.json] set()
+[pred_test_en_no_mask_0525.json] {'[110, 111, 122, 124, 126, 127, "other", "max", "everything else", "same"]', '[189, 190, 191, 192, 186, 188, "other", "mini", "battery", "what about"]', '[110, 111, 118, 119, 126, 127, "other", "max", "battery", "same"]', '[110, 111, 120, 121, 126, 127, "other", "max", "screen", "same"]'}
+in both {'[223, 224, 226, 227, 225, 226, "pos", "11promax", "sales", "higher"]', '[239, 240, 240, 241, 244, 245, "pos", "max", "sales", "higher"]'}
+==================================
+doc_id 0891
+I want to ask about the budget of 2500 - 3000 , I do n't play games , I mainly use software , I like to follow dramas , and the camera should not be too bad . The screen should not be bad , I like a straight screen , which one is better to choose ? ( Personally , I am more inclined to dig holes , I do n't like notch very much )
+I do n't think you do n't understand , these two models are not bad for taking pictures , or the K40 , but the camera is average , the system is not very good , and the fast charging is also a bit slow . Mi 10s has better audio and video , but the viewing angle of the screen is not good , fast charging and the system are not very good , I do n't know anything else , I just considered from these few , there must be some trade - offs
+Just know a little bit [ laugh cry ] , actually , I kind of want to buy realme gt neo 2 , but I do n't play games , so I 'm a little torn
+You can give priority to iqoo neo5 and realme GT master exploration version , I think you should be more satisfied
+I 'm not satisfied with the neo5 's screen [ allow sadness ] , is n't the exploration version a curved screen ? I do n't like curved screens [ Yun Sad ]
+Choose from OPPO , vivo , iqoo , realme
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[247, 249, 257, 259, 254, 257, "neg", "exploration version", "curved screens", "do n\'t like"]'}
+[pred_test_en_no_mask_0525.json] set()
+in both {'[123, 125, 146, 147, 148, 151, "neg", "Mi 10s", "system", "not very good"]', '[123, 125, 133, 138, 139, 141, "neg", "Mi 10s", "viewing angle of the screen", "not good"]', '[123, 125, 129, 130, 126, 127, "pos", "Mi 10s", "video", "better"]', '[123, 125, 127, 128, 126, 127, "pos", "Mi 10s", "audio", "better"]', '[98, 99, 102, 103, 104, 105, "neg", "K40", "camera", "average"]', '[236, 237, 238, 239, 232, 234, "neg", "neo5", "screen", "not satisfied"]', '[123, 125, 142, 144, 148, 151, "neg", "Mi 10s", "fast charging", "not very good"]'}
+==================================
+doc_id 0901
+The master exploration version is the best , 2519 top version[rabbit ]
+Where did you get this price ? I bought the minimum version for 2499
+Pinduoduo tens of billions to subsidize groups of 10,000 people
+It 's not easy to do . It was cut off once a few days ago . The price of Duoduo is really good , but the chance of getting it is not large .
+The Master Exploration Edition is 40 % more expensive than the K40 of 1779 , but the workmanship and texture are really good , depending on the budget , seven or eight hundred yuan is a lot of money
+Yes , if you have money , buy the Master Explorer Edition , if you have no money , you can buy k40
+Which the Master Explorer Edition is
+Where can I buy the top version at a price of 2519 ?
+==================================
+doc_id 0911
+Hongmeng drop power very fast
+I use mate40pro+ . The first two versions of the system power dropped quickly , and the latest version 210 has a good battery life under the traffic data . It should be fine with wifi
+My Honor 30Pro feels that the power drop still fast
+Maybe the battery is old [ hee hee ]
+It is indeed power consumption fast , and the battery life of Hongmeng is really poor .
+Agree , mine too
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[0, 1, 63, 65, 65, 66, "neg", "Hongmeng", "power consumption", "fast"]', '[7, 8, 63, 65, 65, 66, "neg", "mate40pro+", "power consumption", "fast"]', '[7, 8, 15, 16, 17, 19, "neg", "mate40pro+", "system", "dropped quickly"]', '[42, 44, 47, 49, 50, 51, "neg", "Honor 30Pro", "power drop", "fast"]'}
+[pred_test_en_no_mask_0525.json] {'[42, 44, 47, 49, 50, 51, "pos", "Honor 30Pro", "power drop", "fast"]', '[7, 8, 15, 17, 17, 19, "neg", "mate40pro+", "system power", "dropped quickly"]', '[0, 1, 63, 65, 65, 66, "pos", "Hongmeng", "power consumption", "fast"]', '[7, 8, 63, 65, 65, 66, "pos", "mate40pro+", "power consumption", "fast"]'}
+in both {'[0, 1, 1, 3, 3, 5, "neg", "Hongmeng", "drop power", "very fast"]', '[42, 44, 53, 54, 55, 56, "neg", "Honor 30Pro", "battery", "old"]', '[72, 73, 69, 71, 75, 76, "neg", "Hongmeng", "battery life", "poor"]'}
+==================================
+doc_id 0921
+Rendering Liu Yifei , real machine Qiao Biluo
+CIVI level is okay
+The front of the civi looks good . However , the rear camera and logo are strangely placed everywhere , because the outline of the fuselage does not have the flat and elegant feeling as vivo .
+Now the front of the mobile phone is almost the same , just the same . The worst thing about civi is the curved back and the cut middle frame . I personally think thatis the oppo r15 has the best workmanship and good - looking amoung domestic mobile phone .
+If you do n't say , I have forgotten Qiao Biluo [ Yun Bei ] [ Yun Bei ] [ Yun Bei ]
+You are here again
+==================================
+doc_id 0931
+[ Thinking ] I do n't know what model you are talking about is rough . The Xiaomi Mi 11 series has a four - curved ultra - narrow bezel . The redmi k20 series starts with the K series borders , which are also narrower at the same price . This year 's k40 game version craftsmanship is at the level of other flagship machines . However , there are indeed many large borders for the thousand yuan machine . As for the price of the Honor x20 2k+ , I do n't know your " like that " means good or bad .
+Honey , do n't brag any more , this year , there is no Redmi family border better than the k30pro , and each border can stop the aircraft carrier
+k30p , k30u is an alien . I just went to the subway and saw a person using a real full - screen mobile phone with bare metal . The appearance is amazing to me . I look closely , it is a k30u . There is absolutely no problem that the front appearance beat a number of high - end flagships . This year , redmi does not as pay attention to texture as the past two years . It is more or less likely to be squeezed by various plastic flagships of realme and iqoo and be forced to change the knife method . But the k40 game texture is really top
+The workmanship of the two generations of k20p and k30p is completely no problem , and the workmanship is more than 3,000 level . Starting from the k40 , it castrated work configuration . Just to keep costs down with one set of molds . It has little effect on 1999 users , but has a great impact on the original 2999 users
+Obviously talking about mix4
+Is the MIX4 border very wide , I personally feel it is quite narrow
+If you do n't think it 's wide , then it 's not wide . Anyway , this width , thousand yuan machine level . [ Khan ] Who is to blame for you ignoring ?
+Left and right borders , do n't just look at the chin
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[125, 126, 121, 122, 122, 123, "neg", "k30pro", "border", "better"]', '[135, 136, 165, 166, 167, 168, "pos", "k30p", "appearance", "amazing"]', '[119, 120, 121, 122, 122, 123, "pos", "Redmi", "border", "better"]', '[318, 319, 319, 320, 320, 322, "neg", "MIX4", "border", "very wide"]'}
+[pred_test_en_no_mask_0525.json] {'[318, 319, 319, 320, 328, 330, "neg", "MIX4", "border", "quite narrow"]', '[32, 35, 40, 41, 45, 46, "pos", "redmi k20 series", "borders", "narrower"]', '[318, 319, 319, 320, 320, 322, "pos", "MIX4", "border", "very wide"]', '[178, 179, 187, 189, 189, 190, "pos", "k30u", "front appearance", "beat"]', '[201, 202, 208, 209, 203, 208, "neg", "redmi", "texture", "not as pay attention to"]', '[125, 126, 121, 122, 122, 123, "pos", "k30pro", "border", "better"]'}
+in both {'[137, 138, 165, 166, 167, 168, "pos", "k30u", "appearance", "amazing"]', '[258, 259, 250, 251, 260, 263, "pos", "k30p", "workmanship", "completely no problem"]', '[256, 257, 250, 251, 260, 263, "pos", "k20p", "workmanship", "completely no problem"]', '[243, 244, 244, 246, 248, 249, "pos", "k40", "game texture", "top"]'}
+==================================
+doc_id 0941
+The best to see is Meizu 16spro
+Is that from 2016 ?
+Which is the best looking phone in your opinion ? Discuss together , see the problem clearly
+Look at the premise clearly , look back at the 2016 machine circle . Under this premise , asked about the best - looking mobile phone in everyone 's mind , do you think you should answer the mobile phone in 2016 ?
+Pro6s is the most beautiful in that era
+It 's too wide , and it 's still 18 invincible in terms of hand feel [ doge ]
+==================================
+doc_id 0951
+8 + 128 is 200 cheaper than Xiaomi Mi 10 , lacks 90hz refresh rate , lacks dual speakers , and is not as good as Xiaomi 10 for taking pictures . Has a headphone jack , smaller aperture than Xiaomi 10 , more fast charging than Xiaomi 10 , and the system is not as good as Xiaomi 10 .
+The system is not sure . It uses the brand new iQOOUI . Few people have experienced it . This iQOOUI is similar to hydrogen OS . It will take a while to compare iQOOUI and MIUI . The positioning of the two mobile phones is different , one is a gaming phone and the other is a high - end flagship , and there is no comparison .
+I have n't used MIUI , but I have used vivo mobile phones , and I feel that vivo 's system is not as good as the current Honor mobile phone system .
+vivo system optimization is not very good , iQOOUI is a brand new system , not many people have used it , after all , the new system is not very mature , I feel that iQOOUI is fine , a bit similar to hydrogen OS , relatively simple
+Honestly talking , it has HIFI , not just has the headphone jack [ eat melon ]
+The hifi chip AK1377a , the old stock of vivo , if there is a hard demand for listening to music on mobile phones , why not buy Sharp and LG .
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[171, 172, 190, 191, 192, 195, "neg", "iQOOUI", "system", "not very mature"]', '[0, 3, 17, 19, 16, 17, "neg", "8 + 128", "dual speakers", "lacks"]', '[163, 164, 164, 166, 167, 170, "neg", "vivo", "system optimization", "not very good"]'}
+[pred_test_en_no_mask_0525.json] {'[158, 159, 161, 162, 152, 156, "pos", "Honor", "system", "not as good as"]'}
+in both {'[58, 60, 52, 53, 54, 58, "pos", "Xiaomi 10", "system", "not as good as"]', '[158, 159, 150, 151, 152, 156, "pos", "Honor", "system", "not as good as"]', '[26, 28, 29, 31, 22, 26, "pos", "Xiaomi 10", "taking pictures", "not as good as"]'}
+==================================
+doc_id 0961
+It will be stuck in a year later
+Hehe , have you used it ?
+Xiaomi mix3 is too stuck
+The mix3 has been used for a year and a half , except that the battery life is not very good . After upgrading MIUI12 , it is very smooth [ laugh but no words ] [ laugh but no words ] [ laugh but no words ] [ laugh but no words ]
+I am holding the mi8 . From the first release to the present , it is updated to MIUI12 development version . It has been used for more than two years , and it still does not get stuck . You do n't know if you do n't use it , so do n't bb
+Mi 8 is really easy to use , MIUI is my favorite ! 845 has no problem playing chicken games
+It 's really easy to use , but the development version stopped updating immediately , it 's a pity [ allow sad ] [ allow sad ]
+Shut up you cloud users , then I say that Huawei will be stuck after a month [ doge ]
+Huawei system is also garbage in my eyes
+==================================
+doc_id 0971
+3 is GN1 4 is 598
+That light pressure is so good , definitely not 598 , I have it , matt old garbage
+My iqoo5pro 's depress highlights is also rubbish
+3 is 598 , 12 million pixels , only 598 four - in - one is 12 million
+The point is that these 4 are almost the same even after quadbayer , the difference can be ignored
+3 is overexposed to that extent , still gn1 ?
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[25, 26, 27, 29, 31, 32, "neg", "iqoo5pro", "depress highlights", "rubbish"]'}
+[pred_test_en_no_mask_0525.json] {'[25, 26, 28, 29, 31, 32, "neg", "iqoo5pro", "highlights", "rubbish"]'}
+in both set()
+==================================
+doc_id 0981
+Bragging do not pay taxes
+Go buy one and try it out and you 'll know , none of the current Android flagships can beat 13pm
+Is the double standard interesting ? When Apple 's battery life was poor , you said that battery life and fast charging were not important . Now there is improvement , you just brag it on to the sky
+No one has ever said that battery life is not important . Apple 's three major pain points , battery life , heating and signal , it has been solved two at once this year . The battery life is invincible . The energy consumption ratio is very high this year , basically not hot , but the signal is not very good .
+Am I bragging , you will know if you buy one and use it yourself
+Do your android means including Redmi a series ?
+iPhone 13 promax is the world 's best battery life phone this year
+[pred_test_en_no_mask_model_fused_top3_rules.json] {'[33, 34, 43, 45, 49, 51, "neg", "Apple", "battery life", "not important"]', '[33, 34, 46, 48, 49, 51, "neg", "Apple", "fast charging", "not important"]'}
+[pred_test_en_no_mask_0525.json] {'[77, 78, 123, 124, 125, 128, "neg", "Apple", "signal", "not very good"]', '[33, 34, 46, 48, 49, 51, "pos", "Apple", "fast charging", "not important"]'}
+in both {'[77, 78, 102, 104, 105, 106, "pos", "Apple", "battery life", "invincible"]', '[77, 78, 108, 111, 112, 114, "pos", "Apple", "energy consumption ratio", "very high"]', '[33, 34, 35, 37, 38, 39, "neg", "Apple", "battery life", "poor"]', '[153, 156, 161, 163, 160, 161, "pos", "iPhone 13 promax", "battery life", "best"]'}
+==================================
+doc_id 0991
+One plus six user reports [ stand hand ]
+Want to ask if it is easy to use
+It has been used for more than two months . HHH it feels good
+[ OK ] Thank you [ too happy ]
+Is it easy to use ? ? ? ? [ Ashamed ]
+I think it 's okay , HHH it is smooth because I put a shell on it , so I do n't feel particularly hot [ Yun Bei ] It it true that screen is a bit hot .
+Hehehe , thank you [ Zuoyu ] [ Love you ]

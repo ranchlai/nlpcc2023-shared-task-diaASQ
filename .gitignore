@@ -1,0 +1,6 @@
+*.txt
+*.tar
+*.gz
+__pycache__/
+*.py[cod]
+outputs/
