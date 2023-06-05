@@ -1,32 +1,24 @@
 <!-- <p align="center"> -->
 <!-- </p> -->
 # DiaASQ
-<a href="https://github.com/unikcc/DiaASQ">
-  <img src="https://img.shields.io/badge/DiaASQ-0.1-blue" alt="pytorch 1.8.1">
-</a>
-<a href="https://github.com/unikcc/DiaASQ" rel="nofollow">
-  <img src="https://img.shields.io/badge/pytorch-1.8.1-green" alt="pytorch 1.8.1">
-</a>
-<a href="https://huggingface.co/docs/transformers/index" rel="nofollow">
-  <img src="https://img.shields.io/badge/transformers-4.24.0-orange" alt="Build Status">
-</a>
 
-This repository contains data and code for the ACL23 (findings) paper: [DiaASQ: A Benchmark of Conversational Aspect-based Sentiment Quadruple Analysis](https://arxiv.org/abs/2211.05705)
+This repository contains data and code for the first-place solution to the
+nlpcc2023 shared task: DiaASQ. See the [project page](https://conasq.pages.dev/results) for more details.
 
-Also see the [project page](https://conasq.pages.dev/) for more details.
+Our solution is a modified version of [DiaASQ](https://github.com/unikcc/DiaASQ)
 
-------
-
-To clone the repository, please run the following command:
+To clone and install the repository, please run the following command:
 
 ```bash
-git clone https://github.com/unikcc/DiaASQ
+git clone https://github.com/ranchlai/nlpcc2023-shared-task-diaASQ.git
+cd nlpcc2023-shared-task-diaASQ
+pip install -r requirements.txt
+pip install -e .
 ```
 
+
+
 ## News 🎉
-:sparkles: `2023-05-10`: Released training code.
-:loudspeaker: `2023-05-10`: Released the train and valid dataset.
-:zap: `2022-12-10`: Created repository.
 
 
 ## Quick Links
@@ -38,20 +30,24 @@ git clone https://github.com/unikcc/DiaASQ
 
 
 ## Overview
-In this work, we propose a new task named DiaASQ, which aims to extract Target-Aspect-Opinion-Sentiment quadruples from the given dialogue.
-More details about the task can be found in our [paper](https://arxiv.org/abs/2211.05705).
-
+The architecture of our model is shown below:
 <center>
 <img src="./data/fig_sample.png" width="50%" />
 </center>
+We modified the baseline in the following aspects:
++ We use the [MacBERT] for both English and Chinese.
++ The English version is transfered from the final Chinese weights to achieve cross-lingual transfer.
++ We modified the loss weigths to make the model more robust.
++ We replaced multi-view interaction with three consecutive multi-head attention modules.
++ Cross-validation is used to select the best model and ensemble the models.
 
 
 ## Requirements
 
-The model is implemented using PyTorch. The versions of the main packages:
+The model is implemented using PyTorch. The versions of the main packages used in our experiments are listed below:ss
 
-+ python>=3.7
-+ torch>=1.8.1
++ torch==2.0.1
++ transformers==4.29.1
 
 Install the other required packages:
 ``` bash
@@ -59,8 +55,10 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparation
+The data is placed in the `data` directory. The directory structure is as follows:
+./data/jsons_zh/train.json
+./data/jsons_zh/valid.json
 
-<!-- You can either choose to use the parsed data or build the data manually. -->
 
 ##### Parsed data
 Download the parsed data in JSON format from [Google Drive Link](https://drive.google.com/file/d/1MsY8LqbnQ40te-i_OmL5wOT6vQr6PuQi/view?usp=share_link).
