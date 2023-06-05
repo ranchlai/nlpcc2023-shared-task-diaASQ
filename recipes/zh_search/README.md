@@ -1,23 +1,23 @@
+# Parameter search and model fusion for Chinese dataset
 
+## Data Preparation
+Run ```./kfold_prepare_data.sh``` to prepare the data for k-fold cross validation.
+```bash
+python ../prepare_k_fold.py \
+    --data ../../data/jsons_zh/orig/ \
+    --k 5 \
+    --seed 42 \
+    --output ../../data/jsons_zh \
+    --ratio 0.95 
+    # --only_train # use all data (train and valid) for k-fold
+```
+It will generate  train and valid files in the ``` ../../data/jsons_zh ``` folder.
 
+## Training
+Run [kfold_train.sh](kfold_train.sh)to train the model for k-fold cross validation.
 
-scale_factor=1.0
-2023-05-31 14:29:57.904 | INFO     | src.utils:compute:365 - Micro F1: 0.8030
-2023-05-31 14:29:57.904 | INFO     | src.utils:compute:366 - Identify F1: 0.8388
-2023-05-31 14:29:57.904 | INFO     | src.utils:compute:367 - average F1: 0.8209
+## Inference
+First fuse the models trained in the previous step by running [kfold_fuse_model.sh](kfold_fuse_model.sh).
+Then run [recipes/zh_search](recipes/zh_search) to get the final prediction.
 
-scale_factor=1.2
-
-2023-05-31 14:28:17.033 | INFO     | src.utils:compute:365 - Micro F1: 0.8037
-2023-05-31 14:28:17.033 | INFO     | src.utils:compute:366 - Identify F1: 0.8428
-2023-05-31 14:28:17.033 | INFO     | src.utils:compute:367 - average F1: 0.8233
-
-1.25
-2023-05-31 14:40:05.551 | INFO     | src.utils:compute:365 - Micro F1: 0.8044
-2023-05-31 14:40:05.551 | INFO     | src.utils:compute:366 - Identify F1: 0.8434
-2023-05-31 14:40:05.551 | INFO     | src.utils:compute:367 - average F1: 0.8239
-
-scale_factor=1.3
-2023-05-31 14:27:17.390 | INFO     | src.utils:compute:365 - Micro F1: 0.8044
-2023-05-31 14:27:17.390 | INFO     | src.utils:compute:366 - Identify F1: 0.8434
-2023-05-31 14:27:17.390 | INFO     | src.utils:compute:367 - average F1: 0.8239
+The final model is located at [../final_submission/pred_test_zh_no_mask_model_fused_top3.tar.json](../final_submission/pred_test_zh_no_mask_model_fused_top3.tar.json)

@@ -16,8 +16,6 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-
-
 ## News 🎉
 
 
@@ -53,6 +51,15 @@ Install the other required packages:
 ``` bash
 pip install -r requirements.txt
 ```
+
+## Training 
+
+We used k-fold cross-validation to select the best model and ensemble the models. The training and evaluation scripts are as follows:
+
+- [en_search](./recipes/en_search/) contains the scripts for training and evaluating the model on the English dataset.
+- [zh_search](./recipes/zh_search/) contains the scripts for training and evaluating the model on the Chinese dataset.
+
+## Inference
 
 ## Data Preparation
 The data is placed in the `data` directory. The directory structure is as follows:
