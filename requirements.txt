@@ -1,0 +1,13 @@
+attrdict==2.0.1
+jieba
+loguru
+numpy
+packaging==21.3
+PyYAML==6.0
+Requests==2.29.0
+scipy==1.10.1
+seqeval==1.2.2
+spacy==3.4.3
+torch
+tqdm
+transformers
