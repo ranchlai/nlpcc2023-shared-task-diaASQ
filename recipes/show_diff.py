@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
     for i, (d1, d2) in enumerate(zip(data1, data2)):
         assert d1["doc_id"] == d2["doc_id"]
-       
+
         t1 = [json.dumps(d, ensure_ascii=False) for d in d1["triplets"]]
         t2 = [json.dumps(d, ensure_ascii=False) for d in d2["triplets"]]
         setdiff1 = set(t1) - set(t2)
@@ -41,8 +41,7 @@ if __name__ == "__main__":
 
         if setdiff1 == set() and setdiff2 == set():
             continue
-        
-        
+
         print("==================================")
         print("doc_id", d1["doc_id"])
 

@@ -24,7 +24,7 @@ for fold in $(seq 0 0); do
     mkdir -p $folder/$fold/outputs/
     # sort model by score
     score=`find $folder/$fold/outputs/ |grep tar | awk -F "score" '{print $2}'|awk -F ".pth" '{print $1}'|sort -n|tail -n1`
-    
+
     echo "found score: $score"
 
     if [ -z "$score" ]; then

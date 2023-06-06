@@ -80,7 +80,7 @@ You can do inference with the following command:
 cd recipes
 bash kfold_inference.sh zh
 bash kfold_inference.sh en
-bash extract_and_apply_rules.sh # optional step, apply rules, improvement uknown, 
+bash extract_and_apply_rules.sh # optional step, apply rules, improvement uknown,
 ```
 + GPU memory requirements
 

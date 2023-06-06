@@ -16,7 +16,7 @@ if [ ! -f ${lang}/${model} ]; then
 fi
 
 # remove the soft link to the k-fold data
-if [ -f "../data/jsons_${lang}/train.json" ]; then 
+if [ -f "../data/jsons_${lang}/train.json" ]; then
     rm ../data/jsons_${lang}/train.json
     rm ../data/jsons_${lang}/valid.json
 fi
