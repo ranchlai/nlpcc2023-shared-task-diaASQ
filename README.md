@@ -23,8 +23,8 @@ To 主办方:
 1. 请参考[Installation](#installation)安装环境
 2. 从 [Google dirve](https://drive.google.com/file/d/1UoWxWCDS8kjBD6UUHPLZDzrY2aNZ-xeJ/view?usp=drive_link)下载模型并解压至recipes下的en和zh目录
 3. 在 [recipes](./recipes) 目录下运行 [inference_at_once.sh](./recipes/inference_at_once.sh)，实现中英文的预测和基于规则的修正,并生成如下文件：
-- 基于规则修正的[英文预测](final_submission/pred_test_en_no_mask_model_fused_top3_rules.json)和 [中文预测](final_submission/pred_test_zh_no_mask_model_fused_top3_rules.json)
-- 未使用规则修正的 [英文预测](final_submission/pred_test_en_no_mask_model_fused_top3.json)和 [中文预测](final_submission/pred_test_zh_no_mask_model_fused_top3.json)
+- 基于规则修正的[英文预测](recipes/final_submission/pred_test_en_no_mask_model_fused_top3_rules.json)和 [中文预测](recipes/final_submission/pred_test_zh_no_mask_model_fused_top3_rules.json)
+- 未使用规则修正的 [英文预测](recipes/final_submission/pred_test_en_no_mask_model_fused_top3.json)和 [中文预测](recipes/final_submission/pred_test_zh_no_mask_model_fused_top3.json)
 4. 请使用带规则的预测作为最终的提交文件 也可以测试一下未使用规则的预测在测试集的表现（我们只观察到基于rules的后处理修正了几个case，但并没有实际提升验证集效果，所以使用rules后处理的效果未知, 希望主办方能够测试一下未使用rules的效果，如果效果接近，我们希望不使用rules）
 5. 关于训练/推理/规则更多的细节，请参考[Recipe的README.md](./recipes/README.md)
 
