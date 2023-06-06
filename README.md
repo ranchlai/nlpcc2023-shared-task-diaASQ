@@ -10,9 +10,9 @@ Our solution is a modified version of [DiaASQ](https://github.com/unikcc/DiaASQ)
 ## Installation
 To clone and install the repository, please run the following command:
 ```bash
-git clone https://github.com/ranchlai/nlpcc2023-shared-task-diaASQ.git
+git clone https://github.com/Joint-Laboratory-of-HUST-and-PAIC/nlpcc2023-shared-task-diaASQ.git
 cd nlpcc2023-shared-task-diaASQ
-conda create -n diaasq python=3.9
+conda create -n diaasq python=3.9 -y
 conda activate diaasq
 pip install -r requirements.txt
 ```
