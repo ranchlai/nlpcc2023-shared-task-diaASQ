@@ -30,7 +30,7 @@ pip install -e .
 ## Overview
 The architecture of our model is shown below:
 <center>
-<img src="./data/fig_sample.png" width="50%" />
+<img src="./res/fig_sample.png" width="50%" />
 </center>
 We modified the baseline in the following aspects:
 + We use the [MacBERT] for both English and Chinese.
@@ -52,75 +52,25 @@ Install the other required packages:
 pip install -r requirements.txt
 ```
 
-## Training 
+## Training and Evaluation
 
-We used k-fold cross-validation to select the best model and ensemble the models. The training and evaluation scripts are as follows:
+See [Recipe](./recipes/README.md) for more details.
 
-- [en_search](./recipes/en_search/) contains the scripts for training and evaluating the model on the English dataset.
-- [zh_search](./recipes/zh_search/) contains the scripts for training and evaluating the model on the Chinese dataset.
-
-## Inference
-
-## Data Preparation
-The data is placed in the `data` directory. The directory structure is as follows:
-./data/jsons_zh/train.json
-./data/jsons_zh/valid.json
-
-
-##### Parsed data
-Download the parsed data in JSON format from [Google Drive Link](https://drive.google.com/file/d/1MsY8LqbnQ40te-i_OmL5wOT6vQr6PuQi/view?usp=share_link).
-Unzip the files and place them under the data directory like the following:
-
-```bash
-data/dataset/jsons_zh
-data/dataset/jsons_en
-```
-
-The dataset currently only includes the train and valid sets. The test set will be released at a later date; refer to [this issue](https://github.com/unikcc/DiaASQ/issues/5#issuecomment-1495612887) for more information.
-
-<!--
-##### Build data manually
-You can also manually run the scripts to transform the ann and txt format to json format.
-1. Download the source data (ann and txt) from [Google Drive Link]
-2. Then, unzip the files and place them under the data directory like the following:
-```
-./data/dataset/annotation_zh
-./data/dataset/annotation_en
-
-```
-3. Run the following commands, then you will obtain the parsed file in JSON format.
-```bash
-python src/prepare_data.py
-python src/prepare_data.py --lang en
-``` -->
 
 ## Model Usage
-
-+ Train && Evaluate for Chinese dataset
-  ```bash
-  bash scripts/train_zh.sh
-  ```
-
-+ Train && Evaluate for English dataset
-  ```bash
-  bash scripts/train_en.sh
-  ```
-
-+ If you do not have a `test` set yet, you can run the following command to train and evaluate the model on the `valid` set.
-  ```bash
-  bash scripts/train_zh_notest.sh
-  bash scripts/train_en_notest.sh
-  ```
-
+You can do inference with the following command:
+```bash
+cd recipes
+bash kfold_inference.sh zh
+bash kfold_inference.sh en
+```
 + GPU memory requirements
 
 | Dataset | Batch size | GPU Memory |
 | --- | --- | --- |
-| Chinese | 2 |  8GB. |
-| English | 2 | 16GB. |
+| Chinese | 1 |  11GB. |
+| English | 1 | 11GB. |
 
-+ Customized hyperparameters:
-You can set hyperparameters in `main.py` or `src/config.yaml`, and the former has a higher priority.
 
 
 ## Citation

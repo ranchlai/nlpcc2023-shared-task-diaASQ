@@ -1,0 +1,70 @@
+# cuda
+cuda_index: 0
+seed: 42
+
+# path
+annotation_dir: ../data/annotation
+json_path: ../data/jsons
+preprocessed_dir: ../data/preprocessed
+resume_from: ~
+valid_pred_file: ./pred_valid_zh.json
+valid_gold_file: ../data/jsons_zh/valid.json
+test_pred_file: ./pred_test_zh.json
+test_gold_file: ../data/jsons_zh/test.json
+scale_factor: 1.2 # scale factor for the threshold of the aspect extraction
+save_limits: 1
+bert-en:
+  bert_path: hfl/chinese-macbert-large
+  cls: '<s>'
+  sep: '</s>'
+  unk: '<unk>'
+  pad: '<pad>'
+
+bert-zh:
+  bert_path: hfl/chinese-macbert-large
+  cls: '[CLS]'
+  sep: '[SEP]'
+  unk: '[UNK]'
+  pad: '[PAD]'
+
+unkown_tokens: '🍔—🐛🙉🙄🔨🏆🆔👌👀🥺冖🌚🙈😭🍎😅💩尛硌糇💰🐴🙊💯⭐🐶🐟🙏😄🏻📶🐮🍺❌🤔🐍🐸🙃🤣🏆😂🌚'
+max_length: 512
+
+freeze_bert_epoch: -1
+# parameter
+epoch_size: 60
+batch_size: 1
+lr: 1e-6
+# bert_lr: 1e-5
+
+patience: 5
+max_grad_norm: 5.0
+scheduler: cosine_with_warmup #cosine_with_warmup # cosine_with_warmup
+warmup_proportion: 0.1
+gradient_accumulation_steps: 1
+adam_epsilon: 1e-8
+warmup_steps: 200
+num_cycles: 100
+weight_decay: 1e-2
+enable_fp16: False
+
+# dict
+bio_mode: 'OBIES'
+asp_type: 'Aspect'
+tgt_type: 'Target'
+opi_type: 'Opinion'
+
+polarity_dict:
+  O: 0
+  pos: 1
+  neg: 2
+  other: 3
+
+
+# You can set this value to 'False' to save GPU memory, but the performance may decrease.
+use_rope: True
+
+loss_weight:
+  ent: 1
+  rel: 3
+  pol: 3
