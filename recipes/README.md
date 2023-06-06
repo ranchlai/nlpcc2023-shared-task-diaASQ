@@ -42,21 +42,6 @@ After downloading the final model, you can run the inference script to generate 
 bash kfold_inference.sh $lang 
 ```
 
-The final data is located at 
-- [en_with_rules](final_submission/pred_test_en_no_mask_model_fused_top3_rules.json)
-- [zh_with_rules](final_submission/pred_test_zh_no_mask_model_fused_top3_rules.json)
-- [en_without_rules](final_submission/pred_test_en_no_mask_model_fused_top3.json)
-- [zh_without_rules](final_submission/pred_test_zh_no_mask_model_fused_top3.json)
-
-As the rules did correct some obvious errors（although not seeing any improvement on avearge F1), we use the prediction files with rules for submission.
-
-To 主办方:
-1. 先安装环境，pip 
-1. 请使用en_with_rules和zh_with_rules作为最终的提交文件
-2. 主办方可以测试一下en_without_rules和zh_without_rules在测试集的表现
-3. 
-
-
 ## Rules to correct sentiment prediction
 
 As model prediction is not perfect and hard to cover corner cases, we extract rules from training files and apply them to fix the sentiment prediction. 
@@ -65,15 +50,14 @@ As model prediction is not perfect and hard to cover corner cases, we extract ru
 bash extrace_and_apply_rules.sh
 ```
 The final files are the following:
-- [en_with_rules](final_submission/pred_test_en_no_mask_model_fused_top3_rules.json)
-- [zh_with_rules](final_submission/pred_test_zh_no_mask_model_fused_top3_rules.json)
-- [en_without_rules](final_submission/pred_test_en_no_mask_model_fused_top3.json)
-- [zh_without_rules](final_submission/pred_test_zh_no_mask_model_fused_top3.json)
-
-As the rules did correct some obvious errors（although not seeing any improvement on avearge F1), we use the prediction files with rules for submission.
+- [en_with_rules](final_submission/pred_test_en_model_fused_top3_rules.json)
+- [zh_with_rules](final_submission/pred_test_zh_model_fused_top3_rules.json)
+- [en_without_rules](final_submission/pred_test_en_model_fused_top3.json)
+- [zh_without_rules](final_submission/pred_test_zh_model_fused_top3.json)
 
 
-As we do not have the ground truth for test set, we can not evaluate the performance of the rules. However, we can evaluate the performance of the rules on the validation set . The results are shown in the following table:
+
+As we do not have the ground truth for test set, we can not evaluate the performance of the rules. However, we can evaluate the performance of the rules on the validation set. The results are shown in the following table:
 
 |rules | Language | average F1 |
 | -------- | -------- | -------- | 
@@ -87,7 +71,7 @@ The rules did not improve the performance on the validation set. However, we can
 before correct sentiment: [54, 57, 58, 60, 70, 71, 'pos', 'n 10 p', '屏 幕', '差']
 after correct sentiment: [54, 57, 58, 60, 70, 71, 'neg', 'n 10 p', '屏 幕', '差']
 ===================
-save to pred_valid_zh_no_mask_rules.json
+save to pred_valid_zh_rules.json
 
 before correct sentiment: [236, 237, 231, 232, 233, 234, 'neg', 'iPhone', 'experience', 'better']
 after correct sentiment: [236, 237, 231, 232, 233, 234, 'pos', 'iPhone', 'experience', 'better']
@@ -95,7 +79,8 @@ after correct sentiment: [236, 237, 231, 232, 233, 234, 'pos', 'iPhone', 'experi
 before correct sentiment: [20, 21, 24, 25, 17, 18, 'neg', 'iPhone', 'processor', 'better']
 after correct sentiment: [20, 21, 24, 25, 17, 18, 'pos', 'iPhone', 'processor', 'better']
 ===================
-save to pred_valid_en_no_mask_rules.json
+save to pred_valid_en_rules.json
 ```
 
-Note that the rules are extracted from the training set. Therefore, the rules may not be able to correct all the errors in the test set. The rules are built automatically and we DIDNOT analyze the test set case by case. 
+## Note
+The rules are extracted from the training set. Therefore, the rules may not be able to correct all the errors in the test set. The rules are built automatically and we DIDNOT analyze the test set case by case. 
