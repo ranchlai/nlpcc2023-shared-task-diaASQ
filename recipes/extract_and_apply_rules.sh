@@ -16,7 +16,7 @@ python extract_rules.py --lang en \
 lang=zh
 python prepare_submission.py \
     --input final_submission/pred_test_${lang}_model_fused_top3.json \
-    --output final_submission/pred_test_${lang}_no_mask_model_fused_top3_rules.json \
+    --output final_submission/pred_test_${lang}_model_fused_top3_rules.json \
     --mask_out_prob -1 \
     --correct_sentiment_by_rules \
     --pos_words ../data/pos_words_${lang}.txt \
@@ -26,7 +26,7 @@ python prepare_submission.py \
 lang=en
 python prepare_submission.py \
     --input final_submission/pred_test_${lang}_model_fused_top3.json \
-    --output final_submission/pred_test_${lang}_no_mask_model_fused_top3_rules.json \
+    --output final_submission/pred_test_${lang}_model_fused_top3_rules.json \
     --mask_out_prob -1 \
     --correct_sentiment_by_rules \
     --pos_words ../data/pos_words_${lang}.txt \
