@@ -91,6 +91,30 @@ bash extract_and_apply_rules.sh # optional step, apply rules, improvement uknown
 
 In all our experiments, we use a single RTX 3090 12GB.
 
+## Results
+
+Our final submission on the test set achieves the following results(slig):
+
+Chinese:
+
+| Item  | Prec.  | Rec.   | F1     | TP  | Pred. | Gold |
+|-------|--------|--------|--------|-----|-------|------|
+| Micro | 0.4339 | 0.3431 | 0.3832 | 187 | 431   | 545  |
+| Iden  | 0.4988 | 0.3945 | 0.4406 | 215 | 431   | 545  |
+| Avg F1|        |        | 0.4119 |     |       |      |
+
+
+English:
+
+| Item   | Prec.  | Rec.   | F1     | TP  | Pred. | Gold |
+|--------|--------|--------|--------|-----|-------|------|
+| Micro  | 0.4887 | 0.3871 | 0.4320 | 216 | 442   | 558  |
+| Iden   | 0.5226 | 0.4140 | 0.4620 | 231 | 442   | 558  |
+| Avg F1 |        |        | 0.4470 |     |       |      |
+
+
+And the average F1 score for en/zh is 0.4295.
+
 ## Citation
 If you use our dataset, please cite the following paper:
 ```
