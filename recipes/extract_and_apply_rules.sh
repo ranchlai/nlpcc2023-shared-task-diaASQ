@@ -23,6 +23,8 @@ python prepare_submission.py \
     --neg_words ../data/neg_words_${lang}.txt \
     --lang ${lang}
 
+python ../src/run_eval.py  -p ./final_submission/pred_test_${lang}_model_fused_top3_rules.json -g ../data/jsons_${lang}/test.json
+
 lang=en
 python prepare_submission.py \
     --input final_submission/pred_test_${lang}_model_fused_top3.json \
@@ -32,3 +34,6 @@ python prepare_submission.py \
     --pos_words ../data/pos_words_${lang}.txt \
     --neg_words ../data/neg_words_${lang}.txt \
     --lang ${lang}
+
+
+python ../src/run_eval.py  -p ./final_submission/pred_test_${lang}_model_fused_top3_rules.json -g ../data/jsons_${lang}/test.json
