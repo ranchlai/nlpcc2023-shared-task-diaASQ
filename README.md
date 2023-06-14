@@ -7,6 +7,7 @@ nlpcc2023 shared task: DiaASQ. See the [project page](https://conasq.pages.dev/r
 
 Our solution is a modified version of [DiaASQ](https://github.com/unikcc/DiaASQ)
 
+
 ## Installation
 To clone and install the repository, please run the following command:
 ```bash
@@ -32,7 +33,7 @@ pip install -r requirements.txt
 ## Overview
 The architecture of our model is shown below:
 <center>
-<img src="./res/fig_sample.png" width="50%" />
+<img src="./res/nlpcc2023-diaasq.png" width="50%" />
 </center>
 We modified the baseline in the following aspects:
 + We use the [MacBERT] for both English and Chinese.
